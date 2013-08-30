@@ -70,128 +70,56 @@
   * ***___!! Crash: Open file and delete the 'basiccomponents' folder. !!___*** **Works.**
  * **ICBM** v224 - http://universalelectricity.com/icbm/downloads
   * Download the 3 files. Do not download the API file.
-
-CraftGuide v1.6.7.4 - http://www.minecraftforum.net/topic/731133-162-craftguide-v1674/
-
-Applied Energetic v13.a (8/27/2013) - http://ae-mod.info/Downloads/
-@h@***	-Dev build v14 - http://ae-mod.info/Dev/
-OpenPeripheral v0.2.0-beta (8/16/2013) - 
-
-http://www.computercraft.info/forums2/index.php?/topic/13063-mc-152-cc-153-openperipheral/
-	-http://www.openperipheral.info/openperipheral/downloads
-Extra Cells AE Add-On Fluid Storage v1.3.6 - http://www.minecraftforum.net/topic/1801643-
-
-147152162-ae-add-on-fluid-storage-m3gas-extracells-v-136-smp-ssp/
-Misc Peripherals v3.3 - http://www.computercraft.info/forums2/index.php?/topic/4587-
-
-cc153mc152-miscperipherals-33/
-	-Author on an indefinite break. Quickfix For MC v1.6x is v3.4b2
-
-AE Peripheral v1.0.1.1 - http://www.computercraft.info/forums2/index.php?/topic/12663-
-
-applied-energistics-peripheral/
-	-Requires 'ComputerCraft'
-Computer Craft v1.56 - http://www.computercraft.info/
-
-Zan's Minimap (VoxelMap) v115 - Link 1 - http://www.minecraftforum.net/topic/1116564-162-
-
-152-mamiyaotarus-mods-zans-minimap-voxelmap-chatbubbles-etc/
-	-http://www.planetminecraft.com/mod/zans-minimap/
-        -Download where it says 'Modloader/Forge version'. Filename is 
-
-'ZansMinimap1.6.2.zip'.
-
-Forestry v2.3.0.1 - http://forestry.sengir.net/wiki.new/doku.php 
-        -Download the 1 file under Universal Binary.
-
-Biomes O Plenty v0.6.2 - http://www.minecraftforum.net/topic/1495041-162-forge-biomes-o-
-
-plenty-v062-no-more-terrain-stripes/
-	-https://github.com/BiomesOPlenty/BiomesOPlenty/releases
-        -Download the mod. Do not download the API file.
-
-Tinkers Construct v1.4.3 - http://www.minecraftforum.net/topic/1659892-152162tinkers-
-
-construct/
-
-Natura v2.1.7 - http://www.minecraftforum.net/topic/1753754-162natura/
-@h@***	-If you're running Railcraft: Open up the Railcraft config and set "block.hidden" 
-
-to 0. That should fix any and all issues involving trees missing blocks, pistons not 
-
-pushing, portals not forming, etc.
-@h@***	-ID Conflict: 'Natura.txt'. Add -1000 to the ID's. Change I:"Bloodwood Fence 
-
-Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 
-
-2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, 
-
-I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood 
-
-Fence Gate"=3355 to 2355.
-
-Dynamic Liquid Tanks v0.3.0 - http://www.minecraftforum.net/topic/1861781-162-dynamic-
-
-liquid-tanks-color-and-camo-tanks-store-potions-builtin-endertanks-resize-w-bcte-power-
-
-2000-dl/
-	-In-game mods says it's v2.09.01 Assuming it's visual bug.
-
-Diamond Buckets+ v0.98d - http://www.minecraftforum.net/topic/1466881-162forge-diamond-
-
-buckets-v098d-hold-more-stuff-in-twenty-three-new-buckets-now-link-ender-buckets-to-any-
-
-tank-from-any-mod-quartz-buckets/
-
-BetterFurnaces v3.3 - http://www.minecraftforum.net/topic/869534-162spmpbetter-furnace-
-
-mod/
-
-RopesPlus v1.4.5 - http://www.atomicstryker.net/ropesplus.html
-	-Changelog and Version number in the file. 
-Finder Compass v1.6.2B - http://www.atomicstryker.net/findercompass.html
-@h@***	-Can't place in mods folder. Need to open file and install manually. Read the 
-
-Readme.txt.
-@h@***	-Will Crash if 'FinderCompass.cfg' isn't placed into 'config' folder manually.
-	-Changelog and Version number in the file.
-
-EnhancedProtals 2 v1.0.8 - http://shadeddimensions.co.uk/enhancedportals-2/
-	-http://www.minecraftforum.net/topic/1301217-162-enhancedportals-2/
-        -Requires 'EnhancedCore'.
-EnhancedCore v1.1.3 - http://shadeddimensions.co.uk/enhancedcore/downloads/
-
-NEI Add-ons v1.9.0.r40 - http://www.minecraftforum.net/topic/1803460-nei-addons-v190-
-
-updated-to-mc-162/
-
-Advanced Machines(IC2) v5.1.5  (8/29/2013) - http://forum.industrial-craft.net/index.php?
-
-page=Thread&threadID=4907
-	-http://atomicstryker.net/advancedmachines.html
-
-Steve’s Carts v2.0.0.a131 - http://www.minecraftforum.net/topic/680276-16-steves-carts-2-
-
-v200a123/
-@h@***	-Red Screen ID Conflict: 4094 with 'LiquidXP'. Delete 'config' folder or add -2000 
-
-to 'StevesCarts.cfg'. Works.
-
-Project: Red v4.0.0pre.37 (8/17/2013) - https://github.com/MrTJP/ProjectRed/releases/
-        -Requires at least 'ForgeMultipart' v1.0.0.130 (8/18/2013). Works.
-
-Liquid XP v56.0.2 - http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-
-
-now-with-857-less-version-numbers-in-this-title/
-        -http://immibis.com/mcmoddl/
-        -Requires 'Immibis Core'.
-@h@***	-Red Screen ID Conflict: 'pamharvestcraft.cfg' Change I:pamlemonsaplingID=4085 to 
-
-2834.
-@h@***	-Red Screen ID Conflict: 4094 with 'RopesPlus'. Delete 'config' folder.
-Immibis Core v56.0.3 - 
-
-http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
+ * **CraftGuide** v1.6.7.4 - http://www.minecraftforum.net/topic/731133-162-craftguide-v1674/
+ * **Applied Energetic** v13.a (8/27/2013) - http://ae-mod.info/Downloads/
+  * Dev build v14 - http://ae-mod.info/Dev/
+ * **OpenPeripheral** v0.2.0-beta (8/16/2013) - http://www.computercraft.info/forums2/index.php?/topic/13063-mc-152-cc-153-openperipheral/
+  * http://www.openperipheral.info/openperipheral/downloads
+ * **Extra Cells AE Add-On Fluid Storage** v1.3.6 - http://www.minecraftforum.net/topic/1801643-147152162-ae-add-on-fluid-storage-m3gas-extracells-v-136-smp-ssp/
+ * **Misc Peripherals** v3.3 - http://www.computercraft.info/forums2/index.php?/topic/4587-cc153mc152-miscperipherals-33/
+  * Author on an indefinite break. Quickfix For MC v1.6x is v3.4b2
+ * **AE Peripheral** v1.0.1.1 - http://www.computercraft.info/forums2/index.php?/topic/12663-applied-energistics-peripheral/
+  * Requires **'ComputerCraft'**
+ * **Computer Craft** v1.56 - http://www.computercraft.info/
+ * **Zan's Minimap (VoxelMap)** v115 - Link 1 - http://www.minecraftforum.net/topic/1116564-162-152-mamiyaotarus-mods-zans-minimap-voxelmap-chatbubbles-etc/
+  * http://www.planetminecraft.com/mod/zans-minimap/
+  * Download where it says **'Modloader/Forge version'**. Filename is **'ZansMinimap1.6.2.zip'**.
+ * **Forestry** v2.3.0.1 - http://forestry.sengir.net/wiki.new/doku.php 
+  * Download the 1 file under **Universal Binary**.
+ * **Biomes O Plenty** v0.6.2 - http://www.minecraftforum.net/topic/1495041-162-forge-biomes-o-plenty-v062-no-more-terrain-stripes/
+  * https://github.com/BiomesOPlenty/BiomesOPlenty/releases
+  * Download the mod. Do not download the API file.
+ * **Tinkers Construct** v1.4.3 - http://www.minecraftforum.net/topic/1659892-152162tinkers-construct/
+ * **Natura** v2.1.7 - http://www.minecraftforum.net/topic/1753754-162natura/
+  * If you're running **Railcraft**: Open up the **Railcraft** config and set "**block.hidden**" to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
+  * ID Conflict: '**Natura.txt**'. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
+ * **Dynamic Liquid Tanks** v0.3.0 - http://www.minecraftforum.net/topic/1861781-162-dynamic-liquid-tanks-color-and-camo-tanks-store-potions-builtin-endertanks-resize-w-bcte-power-2000-dl/
+  * In-game mods says it's v2.09.01 Assuming it's visual bug.
+ * **Diamond Buckets+** v0.98d - http://www.minecraftforum.net/topic/1466881-162forge-diamond-buckets-v098d-hold-more-stuff-in-twenty-three-new-buckets-now-link-ender-buckets-to-any-tank-from-any-mod-quartz-buckets/
+ * **BetterFurnaces** v3.3 - http://www.minecraftforum.net/topic/869534-162spmpbetter-furnace-mod/
+ * **RopesPlus** v1.4.5 - http://www.atomicstryker.net/ropesplus.html
+  * Changelog and Version number in the file. 
+ * **Finder Compass** v1.6.2B - http://www.atomicstryker.net/findercompass.html
+  * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.
+  * Will Crash if '**FinderCompass.cfg**' isn't placed into '**config**' folder manually.
+  * Changelog and Version number in the file.
+ * **EnhancedProtals** 2 v1.0.8 - http://shadeddimensions.co.uk/enhancedportals-2/
+  * http://www.minecraftforum.net/topic/1301217-162-enhancedportals-2/
+  * Requires '**EnhancedCore**'.
+ * **EnhancedCore** v1.1.3 - http://shadeddimensions.co.uk/enhancedcore/downloads/
+ * **NEI Add-ons** v1.9.0.r40 - http://www.minecraftforum.net/topic/1803460-nei-addons-v190-updated-to-mc-162/
+ * **Advanced Machines(IC2)** v5.1.5  (8/29/2013) - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
+  * http://atomicstryker.net/advancedmachines.html
+ * **Steve’s Carts** v2.0.0.a131 - http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/
+  * Red Screen ID Conflict: 4094 with '**LiquidXP**'. Delete '**config**' folder or add -2000 to '**StevesCarts.cfg**'. Works.
+ * **Project: Red** v4.0.0pre.37 (8/17/2013) - https://github.com/MrTJP/ProjectRed/releases/
+  * Requires at least '**ForgeMultipart**' v1.0.0.130 (8/18/2013). Works.
+ * **Liquid XP** v56.0.2 - http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/
+  * http://immibis.com/mcmoddl/
+  * Requires '**Immibis Core**'.
+  * Red Screen ID Conflict: '**pamharvestcraft.cfg**' Change I:pamlemonsaplingID=4085 to 2834.
+  * Red Screen ID Conflict: 4094 with '**RopesPlus**'. Delete '**config**' folder.
+ * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
 
 Iron Chests v5.3.20.546 (8/28/2013) - http://www.minecraftforum.net/topic/981855-15-and-
 

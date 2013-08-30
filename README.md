@@ -60,7 +60,7 @@
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
  * **~~Basic Components~~** v9 - http://universalelectricity.com/basiccomponents/downloads~~
   * https://github.com/Universal-Electricity/Basic-Components
-  * ***___!! Do not need to install this mod. 'GalactiCraft' will automatically download this. !!___***
+  * ***___!! No need to install this mod. 'GalactiCraft' will automatically download this. !!___***
  * **Resonant Induction** v167 - http://universalelectricity.com/resonant-induction/downloads
   * Download the 1 file. Do not download the API file.
  * **MFFS** v220 - http://universalelectricity.com/mffs/downloads
@@ -120,173 +120,56 @@
   * Red Screen ID Conflict: '**pamharvestcraft.cfg**' Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with '**RopesPlus**'. Delete '**config**' folder.
  * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
-
-Iron Chests v5.3.20.546 (8/28/2013) - http://www.minecraftforum.net/topic/981855-15-and-
-
-up-forge-universalironchests-50-minecraft-15-update/
-	-http://files.minecraftforge.net/IronChests2/
-
-SlabCraft v1.5a - http://www.minecraftforum.net/topic/1161861-162-forge-haycraft-
-
-flowercraft-slabcraft-staircraft/
-	-http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-
-
-_1.6.2_Forge.zip
-
-Factorization v0.8.04beta2 (8/7/2013) - http://www.minecraftforum.net/topic/1351802-162-
-
-factorization-0804/
-@h@***	-ID Conflict: 'ProjectRed.cfg' Change I:"Gate Part ID"=9030 to 3602, I:"Wire Part 
-
-ID"=9031 to 3603, I:"Jacketed Wire Part ID"=9032 to 3604, I:"Lantern Part ID"=9033 to 
-
-3605, I:"Inverted Lantern Part ID"=9034 to 3606, I:"Lamp Part ID"=9035 to 3607, 
-
-I:"Inverted Lamp Part ID"=9036 to 3608.
-
-CryoChamber v0.3 - http://renari.github.io/Cryochamber/
-	-https://github.com/Renari/Cryochamber
-
-Extra Utilities v0.3 Prerelease 3a - http://www.minecraftforum.net/topic/1776056-15-162-
-
-betaforge-extra-utilities-v024g/
-@h@***	-ID Conflict: 'ProjectRed.cfg' Change 31736 to 31729.
-
-MrCrayfish Furniture Mod v2.9.2 (7/19/2013) - http://www.minecraftforum.net/topic/1114866
-
--162forgesspsmp-mrcrayfishs-furniture-mod-v292-mail-update/
-
-GraveStone v2.3.3 - http://www.minecraftforum.net/topic/1711328-162-sspsmp-gravestone-
-
-mod-v233/
-
-Metallurgy 3 v3.2.3 - http://minecraft.curseforge.com/mc-mods/metallurgy/
-	-http://minecraft.curseforge.com/mc-mods/metallurgy/files/
-        -Requires 'KeithyUtils v1.2'.
-KeithyUtils v1.2 - http://minecraft.curseforge.com/mc-mods/keithyutils/files/
-@h@***	-Crash: When first run with error: java.lang.ClassCastException: 
-
-rebelkeithy.mods.keithyutils.metablock.MetaBlock cannot be cast to 
-
-appeng.common.base.AppEngMultiBlock
-        -Delete 'config' folder again. Rerun Minecraft.
-@h@***	-ID Conflict: 'ProjectRed.cfg' Change 31731 to 31728, 31732 to 31711, 31733 to 
-
-31712, 31734 to 31725, 31735 to 31724.
-
-Better Grass & Leaves v1.6.2.H - http://www.minecraftforum.net/topic/508886-162-forge-
-
-better-grass-leaves-mod-v162h/
-
-Twilight Forest v1.19.0 (8/4/13) - http://www.minecraftforum.net/topic/561673-162-the-
-
-twilight-forest-v1190-updated-to-minecraft-16/
-
-Pam’s HarvestCraft 1.6.2 v1.1.2 - http://www.minecraftforum.net/topic/402069-
-
-162152othersforgesmppams-mods-aug-28th-meat-recipes-fix-saturation-bug-fix/
-@h@***	
-
--ID Conflict: 'pamharvestcraft.cfg' Change I:barleyID=13001 to 12950, I:barleyseedID=13002 
-
-to 12951, I:cauliflowerID=13003 to 12952, I:cauliflowerseedID=13004
-
-to 12953, I:leekID=13005 to 12954, I:leekseedID=13006 to 12955, I:oatsID=13007 to 12956, 
-
-I:oatsseedID=13008 to 12957, I:parsnipID=13009 to 12958, I:artichokeseedID=13020 to 12959, 
-
-I:brusselsproutID=13021 to 12960, I:brusselsproutseedID=13022 to 12961, I:rhubarbID=13027 
-
-to 12962, I:rhubarbseedID=13028 to 12963, I:seaweedID=13029 to 12964, 
-
-I:seaweedseedID=13030 to 12965, I:wintersquashID=13031 to 12966, 
-
-I:wintersquashseedID=13032 to 12967, I:beeswaxID=13050 to 12968, I:pamcropID=4020 to 2825, 
-
-I:pamseaweedwildID=4029 to 2826, I:pamstrawberrywildID=4030 to 2827, I:pamappleID=4031 to 
-
-2828, I:pamapplesaplingID=4032 to 2829, I:pamorangesaplingID=3972 to 2830, 
-
-I:coloredclothstairswhiteID=4035 to 2831, I:coloredclothstairsorangeID=4036 to 2832, 
-
-I:coloredclothstairsmagentaID=4037 to 2833, I:pamlemonsaplingID=4085 to 2834, 
-
-I:pamcherryID=4090 to 2835, I:pamcherrysaplingID=4091 to 2836, I:pamblueberrywildID=4089 
-
-to 2838, I:pamorangeID=3971 to 2839, I:peanutID=13401 to 12970, I:peanutseedID=13402 to 
-
-12971.
-
-@h@***	-ID Conflict: 'AppliedEnergistics.cfg' Change I:appeng.TinyTNT=3970 to 2837.
-
-Damage Indicators - v2.9.0.0 - http://www.minecraftforum.net/topic/1536685-
-
-161162152forge-hit-splat-damage-indicators-v2851-rpg-ui-and-damage-amount-mod/
-
-Backpacks v1.18.16 (8/27/2013) - http://www.minecraftforum.net/topic/1492661-15x-16x-
-
-backpacks-v-11816/
-
-Biblo Craft v1.4.0 (8/17/2013) - http://www.minecraftforum.net/topic/1680480-
-
-16215xforgesmp-bibliocraft-v140-bookcases-armor-stands-shelves-printing-presses-lamps-
-
-tables-and-more-updated-08172013/
-
-Coral Reef (7/22/2013) - http://www.minecraftforum.net/topic/1106449-16215x145etc-coral-
-
-reef-mod-updated-2272013/
-
-ExtrabiomesXL v3.14.1 - http://www.minecraftforum.net/topic/1090288-162-152-
-
-extrabiomesxl-3141/
-
-PortalGun v2.0.0 - http://ichun.us/mods/portalgun/download/
-	-Requires 'iChun Util'.
-iChun Util v2.1.0 - http://ichun.us/mods/ichun-util/
-
-Compact Solars v4.4.12.119 (8/28/2013) - http://files.minecraftforge.net/CompactSolars/
-
-TF2 Teleporter v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-
-
-fortress-2-teleporter-sentry-dispenser/
-TF2 Sentry v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-
-
-fortress-2-teleporter-sentry-dispenser/
-TF2 Dispenser v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-
-
-fortress-2-teleporter-sentry-dispenser/
-
-=========================================================================
-Tools (optional)
-=========================================================================
-
-MCEdit v0.1.7 - http://www.mcedit.net/
-        -open source world editor
-
-IDFix v1.1.0 - http://www.minecraftforum.net/topic/1928632-162smpforge-idfix-resolve-id-
-
-conflicts-automatically/
-	-mod automatically resolves ID conflicts for blocks, items, and enchantments.
-@h@***	-Use at own risk! It will mess up your config ID's. Backup 'config' First!
-@h@***	-Delete 'config' folder. Keep file 'FinderCompass.cfg' or it will Crash.
-@h@***	-Red Screen ID Conflict: 'immibis.cfg' Change I:liquidxp.machine.id=4085 to 2821. 
-
-Works.
-@h@***	-Delete 'idfix.txt' each time running Minecraft when debugging for a fresh file. 
-@h@***	-If 'IDFix' is removed the ID Conflicts will return. 
-
-OptiFine B4 (7/19/2013) - http://www.minecraftforum.net/topic/249637-162-optifine-hd-b4-
-
-fps-boost-hd-textures-aa-af-and-much-more/
-	-This mod adds support for HD textures and a lot of options for better looks and 
-
-performance.
-@h@***	-Three Files to choose from. Pick only one to install. Read the Instructions.
-@h@***	-Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with 
-
-Forge'. Add .
-@h@***	-Note OptiFine doesn't seem to work well with the NEI mod.
-@h@***	-Use at own risk! It will mess up how your game runs. I am not using this. Too 
-
-many Crashes.
+ * **Iron Chests** v5.3.20.546 (8/28/2013) - http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/
+  * http://files.minecraftforge.net/IronChests2/
+ * **SlabCraft** v1.5a - http://www.minecraftforum.net/topic/1161861-162-forge-haycraft-flowercraft-slabcraft-staircraft/
+  * http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip
+ * **Factorization** v0.8.04beta2 (8/7/2013) - http://www.minecraftforum.net/topic/1351802-162-factorization-0804/
+  *  ID Conflict: **'ProjectRed.cfg'** Change I:"Gate Part ID"=9030 to 3602, I:"Wire Part ID"=9031 to 3603, I:"Jacketed Wire Part ID"=9032 to 3604, I:"Lantern Part ID"=9033 to 3605, I:"Inverted Lantern Part ID"=9034 to 3606, I:"Lamp Part ID"=9035 to 3607, I:"Inverted Lamp Part ID"=9036 to 3608.
+ *  **CryoChamber** v0.3 - http://renari.github.io/Cryochamber/
+  * https://github.com/Renari/Cryochamber
+ * **Extra Utilities** v0.3 Prerelease 3a - http://www.minecraftforum.net/topic/1776056-15-162-betaforge-extra-utilities-v024g/
+  * ID Conflict: **'ProjectRed.cfg'** Change 31736 to 31729.
+ * **MrCrayfish Furniture Mod** v2.9.2 (7/19/2013) - http://www.minecraftforum.net/topic/1114866-162forgesspsmp-mrcrayfishs-furniture-mod-v292-mail-update/
+ * **GraveStone** v2.3.3 - http://www.minecraftforum.net/topic/1711328-162-sspsmp-gravestone-mod-v233/
+ * **Metallurgy** 3 v3.2.3 - http://minecraft.curseforge.com/mc-mods/metallurgy/
+  * http://minecraft.curseforge.com/mc-mods/metallurgy/files/
+  * Requires **'KeithyUtils v1.2'**.
+ * **KeithyUtils** v1.2 - http://minecraft.curseforge.com/mc-mods/keithyutils/files/
+  * Crash: When first run, get this error: java.lang.ClassCastException: rebelkeithy.mods.keithyutils.metablock.MetaBlock cannot be cast to appeng.common.base.AppEngMultiBlock
+  * Delete **'config'** folder again. Rerun **Minecraft**.
+  * ID Conflict: **'ProjectRed.cfg'** Change 31731 to 31728, 31732 to 31711, 31733 to 31712, 31734 to 31725, 31735 to 31724.
+ * **Better Grass & Leaves** v1.6.2.H - http://www.minecraftforum.net/topic/508886-162-forge-better-grass-leaves-mod-v162h/
+ * **Twilight Forest** v1.19.0 (8/4/13) - http://www.minecraftforum.net/topic/561673-162-the-twilight-forest-v1190-updated-to-minecraft-16/
+ * **Pam’s HarvestCraft** 1.6.2 v1.1.2 - http://www.minecraftforum.net/topic/402069-162152othersforgesmppams-mods-aug-28th-meat-recipes-fix-saturation-bug-fix/
+  * ID Conflict: **'pamharvestcraft.cfg'** Change I:barleyID=13001 to 12950, I:barleyseedID=130027 to 12951, I:cauliflowerID=13003 to 12952, I:cauliflowerseedID=13004 to 12953, I:leekID=13005 to 12954, I:leekseedID=13006 to 12955, I:oatsID=13007 to 12956, I:oatsseedID=13008 to 12957, I:parsnipID=13009 to 12958, I:artichokeseedID=13020 to 12959, I:brusselsproutID=13021 to 12960, I:brusselsproutseedID=13022 to 12961, I:rhubarbID=13027 to 12962, I:rhubarbseedID=13028 to 12963, I:seaweedID=13029 to 12964, I:seaweedseedID=13030 to 12965, I:wintersquashID=13031 to 12966, I:wintersquashseedID=13032 to 12967, I:beeswaxID=13050 to 12968, I:pamcropID=4020 to 2825, I:pamseaweedwildID=4029 to 2826, I:pamstrawberrywildID=4030 to 2827, I:pamappleID=4031 to 2828, I:pamapplesaplingID=4032 to 2829, I:pamorangesaplingID=3972 to 2830, I:coloredclothstairswhiteID=4035 to 2831, I:coloredclothstairsorangeID=4036 to 2832, I:coloredclothstairsmagentaID=4037 to 2833, I:pamlemonsaplingID=4085 to 2834, I:pamcherryID=4090 to 2835, I:pamcherrysaplingID=4091 to 2836, I:pamblueberrywildID=4089 to 2838, I:pamorangeID=3971 to 2839, I:peanutID=13401 to 12970, I:peanutseedID=13402 to 12971.
+  * ID Conflict: **'AppliedEnergistics.cfg'** Change I:appeng.TinyTNT=3970 to 2837.
+ * **Damage Indicators** - v2.9.0.0 - http://www.minecraftforum.net/topic/1536685-161162152forge-hit-splat-damage-indicators-v2851-rpg-ui-and-damage-amount-mod/
+ * **Backpacks** v1.18.16 (8/27/2013) - http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11816/
+ * **Biblo Craft** v1.4.0 (8/17/2013) - http://www.minecraftforum.net/topic/1680480-16215xforgesmp-bibliocraft-v140-bookcases-armor-stands-shelves-printing-presses-lamps-tables-and-more-updated-08172013/
+ * **Coral Reef** (7/22/2013) - http://www.minecraftforum.net/topic/1106449-16215x145etc-coral-reef-mod-updated-2272013/
+ * **ExtrabiomesXL** v3.14.1 - http://www.minecraftforum.net/topic/1090288-162-152-extrabiomesxl-3141/
+ * **PortalGun** v2.0.0 - http://ichun.us/mods/portalgun/download/
+  * Requires **'iChun Util'**.
+ * **iChun Util** v2.1.0 - http://ichun.us/mods/ichun-util/
+ * **Compact Solars** v4.4.12.119 (8/28/2013) - http://files.minecraftforge.net/CompactSolars/
+ * **TF2 Teleporter** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
+ * **TF2 Sentry v1.6.2a** - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
+ * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
+
+##Tools (optional)
+ * **MCEdit** v0.1.7 - http://www.mcedit.net/
+  * open source world editor
+ * **IDFix** v1.1.0 - http://www.minecraftforum.net/topic/1928632-162smpforge-idfix-resolve-id-conflicts-automatically/
+  * mod automatically resolves ID conflicts for blocks, items, and enchantments.
+  * **Use at own risk! It will mess up your config ID's. Backup 'config' First!**
+  * Delete **'config'** folder. Keep file **'FinderCompass.cfg'** or it will Crash.
+  * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
+  * Delete **'idfix.txt'** each time running **Minecraft** when debugging for a fresh file. 
+  * If **'IDFix'** is removed the ID Conflicts will return.
+ * **OptiFine B4** (7/19/2013) - http://www.minecraftforum.net/topic/249637-162-optifine-hd-b4-fps-boost-hd-textures-aa-af-and-much-more/
+  * This mod adds support for HD textures and a lot of options for better looks and performance.
+  * **Three Files to choose from. Pick only one to install. Read the Instructions.**
+  * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
+  * **Note OptiFine doesn't seem to work well with the NEI mod.**
+  * **Use at own risk! It will mess up how your game runs. I am not using this. Too many Crashes.**

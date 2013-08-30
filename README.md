@@ -91,8 +91,8 @@
   * Download the mod. Do not download the API file.
  * **Tinkers Construct** v1.4.3 - http://www.minecraftforum.net/topic/1659892-152162tinkers-construct/
  * **Natura** v2.1.7 - http://www.minecraftforum.net/topic/1753754-162natura/
-  * If you're running **Railcraft**: Open up the **Railcraft** config and set "**block.hidden**" to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
-  * ID Conflict: '**Natura.txt**'. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
+  * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
+  * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
  * **Dynamic Liquid Tanks** v0.3.0 - http://www.minecraftforum.net/topic/1861781-162-dynamic-liquid-tanks-color-and-camo-tanks-store-potions-builtin-endertanks-resize-w-bcte-power-2000-dl/
   * In-game mods says it's v2.09.01 Assuming it's visual bug.
  * **Diamond Buckets+** v0.98d - http://www.minecraftforum.net/topic/1466881-162forge-diamond-buckets-v098d-hold-more-stuff-in-twenty-three-new-buckets-now-link-ender-buckets-to-any-tank-from-any-mod-quartz-buckets/
@@ -101,24 +101,24 @@
   * Changelog and Version number in the file. 
  * **Finder Compass** v1.6.2B - http://www.atomicstryker.net/findercompass.html
   * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.
-  * Will Crash if '**FinderCompass.cfg**' isn't placed into '**config**' folder manually.
+  * Will Crash if **'FinderCompass.cfg'** isn't placed into **'config'** folder manually.
   * Changelog and Version number in the file.
  * **EnhancedProtals** 2 v1.0.8 - http://shadeddimensions.co.uk/enhancedportals-2/
   * http://www.minecraftforum.net/topic/1301217-162-enhancedportals-2/
-  * Requires '**EnhancedCore**'.
+  * Requires **'EnhancedCore'**.
  * **EnhancedCore** v1.1.3 - http://shadeddimensions.co.uk/enhancedcore/downloads/
  * **NEI Add-ons** v1.9.0.r40 - http://www.minecraftforum.net/topic/1803460-nei-addons-v190-updated-to-mc-162/
  * **Advanced Machines(IC2)** v5.1.5  (8/29/2013) - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
   * http://atomicstryker.net/advancedmachines.html
  * **Steve’s Carts** v2.0.0.a131 - http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/
-  * Red Screen ID Conflict: 4094 with '**LiquidXP**'. Delete '**config**' folder or add -2000 to '**StevesCarts.cfg**'. Works.
+  * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
  * **Project: Red** v4.0.0pre.37 (8/17/2013) - https://github.com/MrTJP/ProjectRed/releases/
-  * Requires at least '**ForgeMultipart**' v1.0.0.130 (8/18/2013). Works.
+  * Requires at least **'ForgeMultipart'** v1.0.0.130 (8/18/2013). Works.
  * **Liquid XP** v56.0.2 - http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/
   * http://immibis.com/mcmoddl/
-  * Requires '**Immibis Core**'.
-  * Red Screen ID Conflict: '**pamharvestcraft.cfg**' Change I:pamlemonsaplingID=4085 to 2834.
-  * Red Screen ID Conflict: 4094 with '**RopesPlus**'. Delete '**config**' folder.
+  * Requires **'Immibis Core'**.
+  * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
+  * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
  * **Iron Chests** v5.3.20.546 (8/28/2013) - http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/
   * http://files.minecraftforge.net/IronChests2/
@@ -132,7 +132,7 @@
   * ID Conflict: **'ProjectRed.cfg'** Change 31736 to 31729.
  * **MrCrayfish Furniture Mod** v2.9.2 (7/19/2013) - http://www.minecraftforum.net/topic/1114866-162forgesspsmp-mrcrayfishs-furniture-mod-v292-mail-update/
  * **GraveStone** v2.3.3 - http://www.minecraftforum.net/topic/1711328-162-sspsmp-gravestone-mod-v233/
- * **Metallurgy** 3 v3.2.3 - http://minecraft.curseforge.com/mc-mods/metallurgy/
+ * **Metallurgy 3** v3.2.3 - http://minecraft.curseforge.com/mc-mods/metallurgy/
   * http://minecraft.curseforge.com/mc-mods/metallurgy/files/
   * Requires **'KeithyUtils v1.2'**.
  * **KeithyUtils** v1.2 - http://minecraft.curseforge.com/mc-mods/keithyutils/files/
@@ -144,7 +144,7 @@
  * **Pam’s HarvestCraft** 1.6.2 v1.1.2 - http://www.minecraftforum.net/topic/402069-162152othersforgesmppams-mods-aug-28th-meat-recipes-fix-saturation-bug-fix/
   * ID Conflict: **'pamharvestcraft.cfg'** Change I:barleyID=13001 to 12950, I:barleyseedID=130027 to 12951, I:cauliflowerID=13003 to 12952, I:cauliflowerseedID=13004 to 12953, I:leekID=13005 to 12954, I:leekseedID=13006 to 12955, I:oatsID=13007 to 12956, I:oatsseedID=13008 to 12957, I:parsnipID=13009 to 12958, I:artichokeseedID=13020 to 12959, I:brusselsproutID=13021 to 12960, I:brusselsproutseedID=13022 to 12961, I:rhubarbID=13027 to 12962, I:rhubarbseedID=13028 to 12963, I:seaweedID=13029 to 12964, I:seaweedseedID=13030 to 12965, I:wintersquashID=13031 to 12966, I:wintersquashseedID=13032 to 12967, I:beeswaxID=13050 to 12968, I:pamcropID=4020 to 2825, I:pamseaweedwildID=4029 to 2826, I:pamstrawberrywildID=4030 to 2827, I:pamappleID=4031 to 2828, I:pamapplesaplingID=4032 to 2829, I:pamorangesaplingID=3972 to 2830, I:coloredclothstairswhiteID=4035 to 2831, I:coloredclothstairsorangeID=4036 to 2832, I:coloredclothstairsmagentaID=4037 to 2833, I:pamlemonsaplingID=4085 to 2834, I:pamcherryID=4090 to 2835, I:pamcherrysaplingID=4091 to 2836, I:pamblueberrywildID=4089 to 2838, I:pamorangeID=3971 to 2839, I:peanutID=13401 to 12970, I:peanutseedID=13402 to 12971.
   * ID Conflict: **'AppliedEnergistics.cfg'** Change I:appeng.TinyTNT=3970 to 2837.
- * **Damage Indicators** - v2.9.0.0 - http://www.minecraftforum.net/topic/1536685-161162152forge-hit-splat-damage-indicators-v2851-rpg-ui-and-damage-amount-mod/
+ * **Damage Indicators** v2.9.0.0 - http://www.minecraftforum.net/topic/1536685-161162152forge-hit-splat-damage-indicators-v2851-rpg-ui-and-damage-amount-mod/
  * **Backpacks** v1.18.16 (8/27/2013) - http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11816/
  * **Biblo Craft** v1.4.0 (8/17/2013) - http://www.minecraftforum.net/topic/1680480-16215xforgesmp-bibliocraft-v140-bookcases-armor-stands-shelves-printing-presses-lamps-tables-and-more-updated-08172013/
  * **Coral Reef** (7/22/2013) - http://www.minecraftforum.net/topic/1106449-16215x145etc-coral-reef-mod-updated-2272013/
@@ -154,7 +154,7 @@
  * **iChun Util** v2.1.0 - http://ichun.us/mods/ichun-util/
  * **Compact Solars** v4.4.12.119 (8/28/2013) - http://files.minecraftforge.net/CompactSolars/
  * **TF2 Teleporter** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
- * **TF2 Sentry v1.6.2a** - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
+ * **TF2 Sentry** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
  * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
 
 ##Tools (optional)
@@ -172,4 +172,4 @@
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
   * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
   * **Note OptiFine doesn't seem to work well with the NEI mod.**
-  * **Use at own risk! It will mess up how your game runs. I am not using this. Too many Crashes.**
+  * **Use at own risk! It will mess up how your game runs. __I am not using this. Too many Crashes.__**

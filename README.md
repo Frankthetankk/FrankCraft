@@ -7,10 +7,10 @@
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
 * **Forge** v9.10.0.845 1.6.2 (8/28/2013) 10:21:40 PM - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
  * Download the **'installer'**.
- * Run the file and select **'Install Client'**
+ * Run the file and select **'Install Client'**.
   * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
-  * If start crashing because of memory errors with too many mods running. Under JVM Arguments: increase the number, which is RAM from 1 **-Xmx1G** to 2 or higher.
-  * Also if Minecraft keeps crashing add this JVM Argument: **-XX:MaxPermSize=128m**
+  * If start crashing because of memory errors with too many mods running. Under **JVM Arguments**: increase the number, which is RAM from **1** **-Xmx1G** to **2** or higher.
+  * Also if Minecraft keeps crashing add this **JVM Argument**: **-XX:MaxPermSize=128m**
   * Start the game using Forge Profile. Check in **'mods'** for Forge in game.
 
 ##Mods
@@ -20,11 +20,11 @@
  * **GalactiCraft** v1.6.2-a0.1.39.628 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
   * Requires **'MicdoodleCore'**.
  * **MicdoodleCore** v1.6.2-a0.1.39.628 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
- * **~~Mekanism~~** v5.5.7.201 - http://universalelectricity.com/mekanism/downloads
+ * **Mekanism** v5.5.7.207 - http://universalelectricity.com/mekanism/downloads
   * Download the 3 files. Do not download the MDK file.
   * https://github.com/aidancbrady/Mekanism
-   * Crash: **ic2.api.recipe.IMachineRecipeManager.addRecipe**
-    * ***___!!  Removed Mekanism till fix.  !!___***
+   * ~~Crash: **ic2.api.recipe.IMachineRecipeManager.addRecipe**~~
+    * ~~***___!!  Removed Mekanism till fix.  !!___***~~
  * **Inventory Tweaks** v1.56 (August 21) - http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/
   * http://build.technicpack.net/job/Inventory-Tweaks/
   * Download the mod file. Do not download the API file.
@@ -58,7 +58,7 @@
   * Download the 1 file. Do not download the API file.
   * https://github.com/Universal-Electricity/Universal-Electricity
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
- * **~~Basic Components~~** v8 - http://universalelectricity.com/basiccomponents/downloads~~
+ * **~~Basic Components~~** v9 - http://universalelectricity.com/basiccomponents/downloads~~
   * https://github.com/Universal-Electricity/Basic-Components
   * ***___!! Do not need to install this mod. 'GalactiCraft' will automatically download this. !!___***
  * **Resonant Induction** v167 - http://universalelectricity.com/resonant-induction/downloads

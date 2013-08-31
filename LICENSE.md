@@ -1,11 +1,13 @@
-# MinecraftLetsPlay
-## Berechtigungen und Lizenzen der Mod Entwickler
+This License isn't mine. Using as a template till I change it to my own.
+
+# FrankCraft v1.0
+## Premissions from the Developers
 <table>
     <tr>
         <td>Mods</td>
         <td>Autor</td>
-        <td>Lizenz</td>
-        <td>Quelle</td>
+        <td>License</td>
+        <td>Website</td>
     </tr>
     <tr>
         <td>

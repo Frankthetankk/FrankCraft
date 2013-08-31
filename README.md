@@ -58,16 +58,17 @@
   * Download the 1 file. Do not download the API file.
   * https://github.com/Universal-Electricity/Universal-Electricity
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
- * **~~Basic Components~~** v9 - http://universalelectricity.com/basiccomponents/downloads~~
+ * **Basic Components** v1.0.0.9 - http://universalelectricity.com/basiccomponents/downloads~~
   * https://github.com/Universal-Electricity/Basic-Components
-  * ***___!! No need to install this mod. 'GalactiCraft' will automatically download this. !!___***
+  * ***___'GalactiCraft' Should automatically download this.___***
  * **Resonant Induction** v167 - http://universalelectricity.com/resonant-induction/downloads
   * Download the 1 file. Do not download the API file.
  * **MFFS** v220 - http://universalelectricity.com/mffs/downloads
   * Download the 1 file. Do not download the API file.
- * **Atomic Science** v137 - http://universalelectricity.com/atomic-science/downloads
+ * **Atomic Science** v138 - http://universalelectricity.com/atomic-science/downloads
   * Download the 1 file, **'Atomic_Science'**. Do not download the API file.
-  * ***___!! Crash: Open file and delete the 'basiccomponents' folder. !!___*** Works.
+  * Requires **'Basic Components'** v1.0.0.9
+  * ~~***___!! Crash: Open file and delete the 'basiccomponents' folder. !!___***~~ Works.
  * **ICBM** v224 - http://universalelectricity.com/icbm/downloads
   * Download the 3 files. Do not download the API file.
  * **CraftGuide** v1.6.7.4 - http://www.minecraftforum.net/topic/731133-162-craftguide-v1674/

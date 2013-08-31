@@ -67,7 +67,7 @@
   * Download the 1 file. Do not download the API file.
  * **Atomic Science** v137 - http://universalelectricity.com/atomic-science/downloads
   * Download the 1 file, **'Atomic_Science'**. Do not download the API file.
-  * ***___!! Crash: Open file and delete the 'basiccomponents' folder. !!___*** **Works.**
+  * ***___!! Crash: Open file and delete the 'basiccomponents' folder. !!___*** Works.
  * **ICBM** v224 - http://universalelectricity.com/icbm/downloads
   * Download the 3 files. Do not download the API file.
  * **CraftGuide** v1.6.7.4 - http://www.minecraftforum.net/topic/731133-162-craftguide-v1674/
@@ -103,7 +103,7 @@
   * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.
   * Will Crash if **'FinderCompass.cfg'** isn't placed into **'config'** folder manually.
   * Changelog and Version number in the file.
- * **EnhancedProtals** 2 v1.0.8 - http://shadeddimensions.co.uk/enhancedportals-2/
+ * **EnhancedProtals 2** v1.0.8 - http://shadeddimensions.co.uk/enhancedportals-2/
   * http://www.minecraftforum.net/topic/1301217-162-enhancedportals-2/
   * Requires **'EnhancedCore'**.
  * **EnhancedCore** v1.1.3 - http://shadeddimensions.co.uk/enhancedcore/downloads/
@@ -162,7 +162,7 @@
   * open source world editor
  * **IDFix** v1.1.0 - http://www.minecraftforum.net/topic/1928632-162smpforge-idfix-resolve-id-conflicts-automatically/
   * mod automatically resolves ID conflicts for blocks, items, and enchantments.
-  * **Use at own risk! It will mess up your config ID's. Backup 'config' First!**
+  * ***___Use at own risk! It will mess up your config ID's. Backup 'config' First!___***
   * Delete **'config'** folder. Keep file **'FinderCompass.cfg'** or it will Crash.
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
   * Delete **'idfix.txt'** each time running **Minecraft** when debugging for a fresh file. 
@@ -172,4 +172,4 @@
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
   * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
   * **Note OptiFine doesn't seem to work well with the NEI mod.**
-  * **Use at own risk! It will mess up how your game runs. __I am not using this. Too many Crashes.__**
+  * ***___Use at own risk! It will mess up how your game runs. I am not using this. Too many Crashes.___***

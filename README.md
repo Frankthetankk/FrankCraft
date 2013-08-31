@@ -17,14 +17,14 @@
  * **Render Player API** - http://www.minecraftforum.net/topic/1261354-162api-render-player-api/
  * **Player API Universal** - http://www.minecraftforum.net/topic/738498-162api-player-api/
  * **Industrial Craft 2 Experimental (IC2)** v2.0.122 (8/29/2013) - http://ic2api.player.to:8080/job/IC2_experimental/
- * **GalactiCraft** v1.6.2-a0.1.39.628 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
+ * **GalactiCraft** v1.6.2-a0.1.39.637 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.628 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.637 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
+  * Requires **'MicdoodleCore'**.
+ * **MicdoodleCore** v1.6.2-a0.1.39.637 (8/30/2013) - http://ci.micdoodle8.com/job/Galacticraft/
  * **Mekanism** v5.5.7.207 - http://universalelectricity.com/mekanism/downloads
   * Download the 3 files. Do not download the MDK file.
   * https://github.com/aidancbrady/Mekanism
-   * ~~Crash: **ic2.api.recipe.IMachineRecipeManager.addRecipe**~~
-    * ~~***___!!  Removed Mekanism till fix.  !!___***~~
  * **Inventory Tweaks** v1.56 (August 21) - http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/
   * http://build.technicpack.net/job/Inventory-Tweaks/
   * Download the mod file. Do not download the API file.

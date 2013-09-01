@@ -158,7 +158,17 @@
  * **TF2 Sentry** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
  * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
 
-##Tools (optional)
+##Mods to be included
+ * **Jammy Furniture Mod** v4.5 - http://www.minecraftforum.net/topic/1098808-v45-162-forge-smp-jammy-furniture-mod/
+ * **extra-bees** - <http://www.minecraftforum.net/topic/1324321->
+ * **MineFactoryReloaded** - <http://www.minecraftforum.net/topic/1629898->
+ * **ThermalExpansion** - <http://thermalexpansion.wikispaces.com/Downloads>
+ * **NEIPlugins** - <https://bitbucket.org/mistaqur/nei_plugins/wiki/Home>
+ * **PluginsforForestry** - <http://denoflionsx.info/>
+  * http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff
+ * **Thaumcraft** - <http://www.minecraftforum.net/topic/1585216->
+
+##Tools and/or Mods (optional)
  * **MCEdit** v0.1.7 - http://www.mcedit.net/
   * open source world editor
  * **IDFix** v1.1.0 - http://www.minecraftforum.net/topic/1928632-162smpforge-idfix-resolve-id-conflicts-automatically/

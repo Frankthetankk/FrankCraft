@@ -186,7 +186,7 @@
   * open source world editor
  * **IDFix** v1.1.0 - http://www.minecraftforum.net/topic/1928632-162smpforge-idfix-resolve-id-conflicts-automatically/
   * mod automatically resolves ID conflicts for blocks, items, and enchantments.
-  * ***___Use at own risk! It will mess up your config ID's. Backup 'config' First!___***
+  * ***___!! Use at own risk! It will mess up your config ID's. Backup 'config' folder first! !!___***
   * Delete **'config'** folder. Keep file **'FinderCompass.cfg'** or it will Crash.
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
   * Delete **'idfix.txt'** each time running **Minecraft** when debugging for a fresh file. 
@@ -196,4 +196,4 @@
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
   * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
   * **Note: OptiFine doesn't seem to work well with the NEI mod.**
-  * ***___Use at own risk! It will mess up how your game runs. I am not using this. Too many Crashes.___***
+  * ***___!! Use at own risk! It will mess up how your game runs. I am not using this. Too many Crashes. !!___***

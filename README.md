@@ -9,8 +9,8 @@
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
   * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
-  * If start crashing because of memory errors with too many mods running. Under **JVM Arguments**: increase the number, which is RAM from **1** **-Xmx1G** to **2** or higher.
-  * Also if Minecraft keeps crashing add this **JVM Argument**: **-XX:MaxPermSize=128m**
+  * If start crashing because of memory errors with too many mods running. Under **JVM Arguments**: increase the number (which stands for the RAM) from **1** in **-Xmx1G** to **2** or higher.
+  * Also if Minecraft keeps crashing add this line to **JVM Argument**: **-XX:MaxPermSize=128m**
   * Start the game using Forge Profile. Check in **'mods'** for Forge in game.
 
 ##Mods
@@ -182,5 +182,5 @@
   * This mod adds support for HD textures and a lot of options for better looks and performance.
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
   * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
-  * **Note OptiFine doesn't seem to work well with the NEI mod.**
+  * **Note: OptiFine doesn't seem to work well with the NEI mod.**
   * ***___Use at own risk! It will mess up how your game runs. I am not using this. Too many Crashes.___***

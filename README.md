@@ -167,6 +167,7 @@
  * **PluginsforForestry** - <http://denoflionsx.info/>
   * http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff
  * **Thaumcraft** - <http://www.minecraftforum.net/topic/1585216->
+ * **Assembly Line** - http://universalelectricity.com/assembly%20line/downloads
 
 ##Tools and/or Mods (optional)
  * **MCEdit** v0.1.7 - http://www.mcedit.net/

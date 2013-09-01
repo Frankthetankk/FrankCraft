@@ -183,9 +183,9 @@
 
 ##Tools and/or Mods (optional)
  * **MCEdit** v0.1.7 - http://www.mcedit.net/
-  * open source world editor
+  * An open source world editor
  * **IDFix** v1.1.0 - http://www.minecraftforum.net/topic/1928632-162smpforge-idfix-resolve-id-conflicts-automatically/
-  * mod automatically resolves ID conflicts for blocks, items, and enchantments.
+  * This mod automatically resolves ID conflicts for blocks, items, and enchantments.
   * ***___!! Use at your own risk! It could mess up your config ID's. Backup 'config' folder first! !!___***
   * Delete **'config'** folder. Keep file **'FinderCompass.cfg'** or it will Crash.
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.

@@ -113,7 +113,8 @@
   * http://atomicstryker.net/advancedmachines.html
  * **Steve’s Carts** v2.0.0.a131 - http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
- * **Project: Red** v4.0.0pre.37 (8/17/2013) - https://github.com/MrTJP/ProjectRed/releases/
+ * **Project: Red** v4.0.0pre.37 (8/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "minecraftforum.net Project: Red")
+  * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "github.com Project: Red")
   * Requires at least **'ForgeMultipart'** v1.0.0.130 (8/18/2013). Works.
  * **Liquid XP** v56.0.2 - http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/
   * http://immibis.com/mcmoddl/

@@ -13,6 +13,10 @@
   * Also if Minecraft keeps crashing add this line to **JVM Argument**: **-XX:MaxPermSize=128m**
   * Start the game using Forge Profile. Check in **'mods'** for Forge in game.
 
+##Config
+ * I listed mostly the ID Conflict changes to my configs in the mods section as I was getting this modpack to run.
+ * List of my current config is available here.
+
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")

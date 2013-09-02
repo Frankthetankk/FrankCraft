@@ -113,6 +113,7 @@
   * http://atomicstryker.net/advancedmachines.html
  * **Steve’s Carts** v2.0.0.a132 - http://www.minecraftforum.net/topic/680276-
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
+  * ID Conflict: **'StevesCarts.cfg'** Change I:AdvancedDetector=4072 to 3519.
  * **Project: Red** v4.0.0pre.37 (8/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
   * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "Project: Red - github.com")
   * Requires at least **'ForgeMultipart'** v1.0.0.130 (8/18/2013). Works.
@@ -158,12 +159,14 @@
  * **TF2 Teleporter** v1.6.2a - http://www.minecraftforum.net/topic/334760-
  * **TF2 Sentry** v1.6.2a - http://www.minecraftforum.net/topic/334760-
  * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-
- * **Jammy Furniture Mod** v4.5 - http://www.minecraftforum.net/topic/1098808-
  * **Better Biomes** v1.2.1d - http://www.minecraftforum.net/topic/1721139-
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - http://www.minecraftforum.net/topic/1627856-
  * **Mystcraft** v0.10.6 - http://www.minecraftforum.net/topic/918541-
+ * **Jammy Furniture Mod** v4.5 - http://www.minecraftforum.net/topic/1098808-
+  * Crashed: ID conflict with **Forestry**. Need to fix.
+
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

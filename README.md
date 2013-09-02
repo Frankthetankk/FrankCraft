@@ -5,7 +5,7 @@
 #####9/2/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
-* **Forge** v9.10.0.845 1.6.2 (8/28/2013) 10:21:40 PM - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
+* **Forge** v9.10.0.846 1.6.2 (9/2/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
   * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
@@ -14,14 +14,14 @@
   * Start the game using Forge Profile. Check in **'mods'** for Forge in game.
 
 ##Mods
- * **Render Player API** - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
- * **Player API Universal** - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.122 (8/29/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.637 (8/30/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
+ * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.131 (9/1/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **GalactiCraft** v1.6.2-a0.1.39.647 (9/1/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.637 (8/30/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft Planets - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.647 (9/1/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft Planets - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.637 (8/30/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "MicdoodleCore - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.39.647 (9/1/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "MicdoodleCore - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -54,14 +54,14 @@
   * http://bspk.rs/MC/TreeCapitator_Forge/index.html
   * Requires **'bskpkrs Core'**.
  * **bskpkrsCore** v3.03 - http://bspk.rs/MC/bspkrsCore/index.html
- * **~~Universal Electricity~~** v164 - http://universalelectricity.com/universalelectricity/downloads
+ * **~~Universal Electricity~~** v165 - http://universalelectricity.com/universalelectricity/downloads
   * Download the 1 file. Do not download the API file.
   * https://github.com/Universal-Electricity/Universal-Electricity
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
- * **Basic Components** v1.0.0.9 - http://universalelectricity.com/basiccomponents/downloads~~
+ * **Basic Components** v1.0.0.9 - http://universalelectricity.com/basiccomponents/downloads
   * https://github.com/Universal-Electricity/Basic-Components
   * ***___'GalactiCraft' Should automatically download this.___***
- * **Resonant Induction** v167 - http://universalelectricity.com/resonant-induction/downloads
+ * **Resonant Induction** v169 - http://universalelectricity.com/resonant-induction/downloads
   * Download the 1 file. Do not download the API file.
  * **MFFS** v220 - http://universalelectricity.com/mffs/downloads
   * Download the 1 file. Do not download the API file.
@@ -72,14 +72,14 @@
  * **ICBM** v224 - http://universalelectricity.com/icbm/downloads
   * Download the 3 files. Do not download the API file.
  * **CraftGuide** v1.6.7.4 - http://www.minecraftforum.net/topic/731133-
- * **Applied Energetic** v13.a (8/27/2013) - http://ae-mod.info/Downloads/
+ * **Applied Energetic** v13.b (9/1/2013) - http://ae-mod.info/Downloads/
   * Dev build v14 - http://ae-mod.info/Dev/
- * **OpenPeripheral** v0.2.0-beta (8/16/2013) - http://www.computercraft.info/forums2/index.php?/topic/13063-mc-152-cc-153-openperipheral/
+ * **OpenPeripheral** v0.2.0-beta (8/16/2013) - http://www.computercraft.info/forums2/index.php?/topic/13063-
   * http://www.openperipheral.info/openperipheral/downloads
- * **Extra Cells AE Add-On Fluid Storage** v1.3.6 - http://www.minecraftforum.net/topic/1801643-
- * **Misc Peripherals** v3.3 - http://www.computercraft.info/forums2/index.php?/topic/4587-cc153mc152-miscperipherals-33/
+ * **Extra Cells AE Add-On Fluid Storage** v1.3.9 - http://www.minecraftforum.net/topic/1801643-
+ * **Misc Peripherals** v3.3 - http://www.computercraft.info/forums2/index.php?/topic/4587-
   * Author on an indefinite break. Quickfix For MC v1.6x is v3.4b2
- * **AE Peripheral** v1.0.1.1 - http://www.computercraft.info/forums2/index.php?/topic/12663-applied-energistics-peripheral/
+ * **AE Peripheral** v1.0.1.1 - http://www.computercraft.info/forums2/index.php?/topic/12663-
   * Requires **'ComputerCraft'**
  * **Computer Craft** v1.56 - http://www.computercraft.info/
  * **Zan's Minimap (VoxelMap)** v115 - Link 1 - http://www.minecraftforum.net/topic/1116564-
@@ -90,7 +90,7 @@
  * **Biomes O Plenty** v0.6.2 - http://www.minecraftforum.net/topic/1495041-
   * https://github.com/BiomesOPlenty/BiomesOPlenty/releases
   * Download the mod. Do not download the API file.
- * **Tinkers Construct** v1.4.3 - http://www.minecraftforum.net/topic/1659892-
+ * **Tinkers Construct** v1.4.3d8 - http://www.minecraftforum.net/topic/1659892-
  * **Natura** v2.1.7 - http://www.minecraftforum.net/topic/1753754-
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
   * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
@@ -98,7 +98,7 @@
   * In-game mods says it's v2.09.01 Assuming it's visual bug.
  * **Diamond Buckets+** v0.98d - http://www.minecraftforum.net/topic/1466881-
  * **BetterFurnaces** v3.3 - http://www.minecraftforum.net/topic/869534-
- * **RopesPlus** v1.4.5 - http://www.atomicstryker.net/ropesplus.html
+ * **RopesPlus** v1.4.6 - http://www.atomicstryker.net/ropesplus.html
   * Changelog and Version number in the file. 
  * **Finder Compass** v1.6.2B - http://www.atomicstryker.net/findercompass.html
   * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.
@@ -109,9 +109,9 @@
   * Requires **'EnhancedCore'**.
  * **EnhancedCore** v1.1.3 - http://shadeddimensions.co.uk/enhancedcore/downloads/
  * **NEI Add-ons** v1.9.0.r40 - http://www.minecraftforum.net/topic/1803460-
- * **Advanced Machines(IC2)** v5.1.5  (8/29/2013) - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
+ * **Advanced Machines(IC2)** v5.1.7 - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
   * http://atomicstryker.net/advancedmachines.html
- * **Steve’s Carts** v2.0.0.a131 - http://www.minecraftforum.net/topic/680276-
+ * **Steve’s Carts** v2.0.0.a132 - http://www.minecraftforum.net/topic/680276-
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
  * **Project: Red** v4.0.0pre.37 (8/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
   * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "Project: Red - github.com")
@@ -122,7 +122,7 @@
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
- * **Iron Chests** v5.3.20.546 (8/28/2013) - http://www.minecraftforum.net/topic/981855-
+ * **Iron Chests** v5.3.20.547 (9/2/2013) - http://www.minecraftforum.net/topic/981855-
   * http://files.minecraftforge.net/IronChests2/
  * **SlabCraft** v1.5a - http://www.minecraftforum.net/topic/1161861-
   * http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip
@@ -147,21 +147,21 @@
   * ID Conflict: **'pamharvestcraft.cfg'** Change I:barleyID=13001 to 12950, I:barleyseedID=130027 to 12951, I:cauliflowerID=13003 to 12952, I:cauliflowerseedID=13004 to 12953, I:leekID=13005 to 12954, I:leekseedID=13006 to 12955, I:oatsID=13007 to 12956, I:oatsseedID=13008 to 12957, I:parsnipID=13009 to 12958, I:artichokeseedID=13020 to 12959, I:brusselsproutID=13021 to 12960, I:brusselsproutseedID=13022 to 12961, I:rhubarbID=13027 to 12962, I:rhubarbseedID=13028 to 12963, I:seaweedID=13029 to 12964, I:seaweedseedID=13030 to 12965, I:wintersquashID=13031 to 12966, I:wintersquashseedID=13032 to 12967, I:beeswaxID=13050 to 12968, I:pamcropID=4020 to 2825, I:pamseaweedwildID=4029 to 2826, I:pamstrawberrywildID=4030 to 2827, I:pamappleID=4031 to 2828, I:pamapplesaplingID=4032 to 2829, I:pamorangesaplingID=3972 to 2830, I:coloredclothstairswhiteID=4035 to 2831, I:coloredclothstairsorangeID=4036 to 2832, I:coloredclothstairsmagentaID=4037 to 2833, I:pamlemonsaplingID=4085 to 2834, I:pamcherryID=4090 to 2835, I:pamcherrysaplingID=4091 to 2836, I:pamblueberrywildID=4089 to 2838, I:pamorangeID=3971 to 2839, I:peanutID=13401 to 12970, I:peanutseedID=13402 to 12971.
   * ID Conflict: **'AppliedEnergistics.cfg'** Change I:appeng.TinyTNT=3970 to 2837.
  * **Damage Indicators** v2.9.0.0 - http://www.minecraftforum.net/topic/1536685-
- * **Backpacks** v1.18.16 (8/27/2013) - http://www.minecraftforum.net/topic/1492661-
+ * **Backpacks** v1.18.17 (8/31/2013) - http://www.minecraftforum.net/topic/1492661-
  * **Biblo Craft** v1.4.0 (8/17/2013) - http://www.minecraftforum.net/topic/1680480-
  * **Coral Reef** (7/22/2013) - http://www.minecraftforum.net/topic/1106449-
  * **ExtrabiomesXL** v3.14.1 - http://www.minecraftforum.net/topic/1090288-
  * **PortalGun** v2.0.0 - http://ichun.us/mods/portalgun/download/
   * Requires **'iChun Util'**.
  * **iChun Util** v2.1.0 - http://ichun.us/mods/ichun-util/
- * **Compact Solars** v4.4.12.119 (8/28/2013) - http://files.minecraftforge.net/CompactSolars/
+ * **Compact Solars** v4.4.12.120 (9/2/2013) - http://files.minecraftforge.net/CompactSolars/
  * **TF2 Teleporter** v1.6.2a - http://www.minecraftforum.net/topic/334760-
  * **TF2 Sentry** v1.6.2a - http://www.minecraftforum.net/topic/334760-
  * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-
-
-##Mods I am planning to add.
  * **Jammy Furniture Mod** v4.5 - http://www.minecraftforum.net/topic/1098808-
  * **Better Biomes** v1.2.1d - http://www.minecraftforum.net/topic/1721139-
+
+##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - http://www.minecraftforum.net/topic/1627856-
  * **Mystcraft** v0.10.6 - http://www.minecraftforum.net/topic/918541-
 

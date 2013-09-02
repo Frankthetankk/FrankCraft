@@ -113,7 +113,7 @@
   * http://atomicstryker.net/advancedmachines.html
  * **Steve’s Carts** v2.0.0.a132 - http://www.minecraftforum.net/topic/680276-
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
-  * ID Conflict: **'StevesCarts.cfg'** Change I:AdvancedDetector=4072 to 3519.
+  * ID Conflict: **'StevesCarts.cfg'** Change I:AdvancedDetector=4072 to 3519, I:CargoManager=4075 to 3520.
  * **Project: Red** v4.0.0pre.37 (8/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
   * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "Project: Red - github.com")
   * Requires at least **'ForgeMultipart'** v1.0.0.130 (8/18/2013). Works.

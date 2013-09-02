@@ -161,6 +161,7 @@
  * **TF2 Sentry** v1.6.2a - http://www.minecraftforum.net/topic/334760-
  * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-
  * **Better Biomes** v1.2.1d - http://www.minecraftforum.net/topic/1721139-
+  * ID Conflict: **'/Better Biomes/Saplings.cfg'** Change I:"Item ID of Sapling Planter"=3801 to 2840.
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - http://www.minecraftforum.net/topic/1627856-

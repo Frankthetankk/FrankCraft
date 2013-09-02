@@ -124,7 +124,7 @@
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
- * **Iron Chests** v5.3.20.547 (9/2/2013) - http://www.minecraftforum.net/topic/981855-
+ * **Iron Chests** v5.3.20.548 (9/2/2013) - http://www.minecraftforum.net/topic/981855-
   * http://files.minecraftforge.net/IronChests2/
  * **SlabCraft** v1.5a - http://www.minecraftforum.net/topic/1161861-
   * http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip

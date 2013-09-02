@@ -164,7 +164,7 @@
  * **Better Biomes** v1.2.1d - http://www.minecraftforum.net/topic/1721139-
  * **Magic Bees** v2.1.1 - http://www.minecraftforum.net/topic/1627856-
  * **Mystcraft** v0.10.6 - http://www.minecraftforum.net/topic/918541-
- * 
+
 ##Mods I want to include
 **These are not yet updated to v1.6.2**
  * **extra-bees** - <http://www.minecraftforum.net/topic/1324321->

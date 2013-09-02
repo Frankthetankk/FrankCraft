@@ -120,6 +120,7 @@
  * **Liquid XP** v56.0.2 - http://www.minecraftforum.net/topic/1001131-
   * http://immibis.com/mcmoddl/
   * Requires **'Immibis Core'**.
+  * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4084 to 4085.
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html

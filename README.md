@@ -159,9 +159,13 @@
  * **TF2 Sentry** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
  * **TF2 Dispenser** v1.6.2a - http://www.minecraftforum.net/topic/334760-162smpssplan-team-fortress-2-teleporter-sentry-dispenser/
 
+##Mods I am planning to add.
+ * **Jammy Furniture Mod** v4.5 - http://www.minecraftforum.net/topic/1098808-v45-162-forge-smp-jammy-furniture-mod/
+ * **Better Biomes** v1.2.1d - http://www.minecraftforum.net/topic/1721139-
+ * **Magic Bees** v2.1.1 - http://www.minecraftforum.net/topic/1627856-
+
 ##Mods I want to include
 **These are not yet updated to v1.6.2**
- * **Jammy Furniture Mod** v4.5 - http://www.minecraftforum.net/topic/1098808-v45-162-forge-smp-jammy-furniture-mod/
  * **extra-bees** - <http://www.minecraftforum.net/topic/1324321->
  * **MineFactoryReloaded** - <http://www.minecraftforum.net/topic/1629898->
  * **ThermalExpansion** - <http://thermalexpansion.wikispaces.com/Downloads>
@@ -172,13 +176,13 @@
  * **Assembly Line** - http://universalelectricity.com/assembly%20line/downloads
 
 ##Texture Packs
- * **Pixel Perfection x16** v1.9.5 - http://www.minecraftforum.net/topic/1409879-16x16x-pixel-perfection-update/
+ * **Pixel Perfection x16** v1.9.5 - http://www.minecraftforum.net/topic/1409879-
   * Dislike font. Dislike the Textures. Dislike GUI.
- * **Faithful x32** (7/28/2013) - http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-update50-mods-for-15-font-162/
+ * **Faithful x32** (8/31/2013) - http://www.minecraftforum.net/topic/72747-
   * ont and GUI very sharp/clean looking. I like the Textures.
- * **LB Photo Realism 16x x32** - http://www.minecraftforum.net/topic/127377-16x-32x-64x-128x-256x16-lb-photo-realism-16-convert-7162013-rpg-realism-131-updated-10122012/
+ * **LB Photo Realism 16x x32** - http://www.minecraftforum.net/topic/127377-
   * Good realism. Ores from other mods unchanged.
- * **DefStyle x16** (7/27/2013) - http://www.minecraftforum.net/topic/1065523-16216x-defstyle-texturepack-v23-improved-default-pack-animated-items-and-terrain/
+ * **DefStyle x16** (7/27/2013) - http://www.minecraftforum.net/topic/1065523-
   * I like default look. I dislike the GUI.
 
 ##Tools and/or Mods (optional)

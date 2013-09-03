@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/2/2013
+#####9/3/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
 * **Forge** v9.10.0.847 1.6.2 (9/2/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
@@ -20,12 +20,12 @@
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.131 (9/1/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.647 (9/1/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.133 (9/2/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **GalactiCraft** v1.6.2-a0.1.39.648 (9/2/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.647 (9/1/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft Planets - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.648 (9/2/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft Planets - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.647 (9/1/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "MicdoodleCore - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.39.648 (9/2/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "MicdoodleCore - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -62,7 +62,7 @@
   * Download the 1 file. Do not download the API file.
   * https://github.com/Universal-Electricity/Universal-Electricity
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
- * **Basic Components** v1.0.0.9 - http://universalelectricity.com/basiccomponents/downloads
+ * **Basic Components** v1.0.0.10 - http://universalelectricity.com/basiccomponents/downloads
   * https://github.com/Universal-Electricity/Basic-Components
   * ***___'GalactiCraft' Should automatically download this.___***
  * **Resonant Induction** v169 - http://universalelectricity.com/resonant-induction/downloads
@@ -94,7 +94,7 @@
  * **Biomes O Plenty** v0.6.2 - http://www.minecraftforum.net/topic/1495041-
   * https://github.com/BiomesOPlenty/BiomesOPlenty/releases
   * Download the mod. Do not download the API file.
- * **Tinkers Construct** v1.4.3d8 - http://www.minecraftforum.net/topic/1659892-
+ * **Tinkers Construct** v1.4.3d10 - http://www.minecraftforum.net/topic/1659892-
  * **Natura** v2.1.7 - http://www.minecraftforum.net/topic/1753754-
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
   * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
@@ -128,7 +128,7 @@
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.3 - http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html
- * **Iron Chests** v5.3.20.548 (9/2/2013) - http://www.minecraftforum.net/topic/981855-
+ * **Iron Chests** v5.3.20.549 (9/2/2013) - http://www.minecraftforum.net/topic/981855-
   * http://files.minecraftforge.net/IronChests2/
  * **SlabCraft** v1.5a - http://www.minecraftforum.net/topic/1161861-
   * http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip

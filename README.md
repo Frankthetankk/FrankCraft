@@ -21,11 +21,11 @@
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
  * **Industrial Craft 2 Experimental (IC2)** v2.0.133 (9/2/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.648 (9/2/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft** v1.6.2-a0.1.39.648 (9/2/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.648 (9/2/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft Planets - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.648 (9/2/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.648 (9/2/2013) - [http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "MicdoodleCore - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.39.648 (9/2/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -49,8 +49,7 @@
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.1.0 (8/21/2013) 8:49 am - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
- * **Build Craft** v363 - http://nallar.me/buildservice/job/Buildcraft/ 
-  * [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)
+ * **Build Craft** v363 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
  * **UgoCraft** v2.1.1 - http://www.maocat.net/?page_id=6586
   * Scroll to bottom of the page for the link to **'UgoCraft_Client_MC1.6.2-2.1.1'**
  * **Armor Status HUD** - v1.12 - http://www.minecraftforum.net/topic/1114612-

@@ -49,7 +49,8 @@
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.1.0 (8/21/2013) 8:49 am - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
- * **Build Craft** v360 - http://nallar.me/buildservice/job/Buildcraft/
+ * **Build Craft** v363 - http://nallar.me/buildservice/job/Buildcraft/ 
+  * [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)
  * **UgoCraft** v2.1.1 - http://www.maocat.net/?page_id=6586
   * Scroll to bottom of the page for the link to **'UgoCraft_Client_MC1.6.2-2.1.1'**
  * **Armor Status HUD** - v1.12 - http://www.minecraftforum.net/topic/1114612-

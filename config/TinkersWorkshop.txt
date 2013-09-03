@@ -1,11 +1,22 @@
 # Configuration file
 
 ####################
+# alpha behavior
+####################
+
+"alpha behavior" {
+    B:"Regenerate HP from food"=false
+    B:"Remove hunger"=false
+}
+
+
+####################
 # block
 ####################
 
 block {
     I:Aggregator=3221
+    I:Antilight=3246
     I:"Birch Barricade"=1483
     I:"Casting Channel"=3249
     I:"Clear Glass"=3223
@@ -250,10 +261,14 @@ tools {
 ####################
 
 "ultra hardcore changes" {
+    # Gives all tier 1 patterns when pattern chest is placed
     B:"Add Patterns to Pattern Chests"=false
     B:"Add World Border"=false
+
+    # Makes recipes for gold apples, carrots, and melon potions more expensive
     B:"Change Crafting Recipes"=false
     B:"Change Ghast drops to Gold Ingots"=false
+    B:"Necrotic modifier only heals on hostile mob kills"=false
     B:"Passive Health Regen"=true
     B:"Players drop heads on death"=false
     I:"World Border Radius"=1000
@@ -278,7 +293,11 @@ worldgen {
     I:"Copper Bush Max Y"=60
     I:"Copper Bush Min Y"=20
     I:"Copper Bush Rarity"=3
+
+    # Rarity: 1/num to generate in chunk
     I:"Copper Surface Rarity"=100
+
+    # Density: Chances per chunk
     I:"Copper Underground Density"=2
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20

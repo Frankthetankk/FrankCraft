@@ -2,10 +2,10 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/3/2013
+#####9/4/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
-* **Forge** v9.10.0.848 1.6.2 (9/2/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
+* **Forge** v9.10.1.849 1.6.2 (9/3/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
   * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
@@ -20,12 +20,12 @@
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.133 (9/2/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.648 (9/2/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.137 (9/4/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **GalactiCraft** v1.6.2-a0.1.39.654 (9/4/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.648 (9/2/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.654 (9/4/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.648 (9/2/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.39.654 (9/4/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -45,7 +45,7 @@
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
   * Requires **‘Forge Multi-Part’**
- * **Forge Multi-Part** v1.0.0.153 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
+ * **Forge Multi-Part** v1.0.0.155 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.1.0 (8/21/2013) 8:49 am - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
@@ -113,7 +113,7 @@
   * Requires **'EnhancedCore'**.
  * **EnhancedCore** v1.1.3 - [http://shadeddimensions.co.uk/enhancedcore/downloads/](http://shadeddimensions.co.uk/enhancedcore/downloads/ "EnhancedCore - shadeddimensions.co.uk")
  * **NEI Add-ons** v1.9.0.r40 - [http://www.minecraftforum.net/topic/1803460-](http://www.minecraftforum.net/topic/1803460- "NEI Add-ons - minecraftforum.net")
- * **Advanced Machines(IC2)** v5.1.7 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
+ * **Advanced Machines(IC2)** v5.1.8 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
   * [http://atomicstryker.net/advancedmachines.html](http://atomicstryker.net/advancedmachines.html "Advanced Machines(IC2) - atomicstryker.net")
  * **Steve’s Carts** v2.0.0.a132 - [http://www.minecraftforum.net/topic/680276-](http://www.minecraftforum.net/topic/680276- "Steve’s Carts - minecraftforum.net")
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
@@ -127,19 +127,20 @@
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4084 to 4085.
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
- * **Immibis Core** v56.0.3 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
- * **Iron Chests** v5.3.20.549 (9/2/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
+ * **Immibis Core** v56.0.4 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
+ * **Iron Chests** v5.3.20.550 (9/3/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
   * [http://files.minecraftforge.net/IronChests2/](http://files.minecraftforge.net/IronChests2/ "Iron Chests - files.minecraftforge.net")
  * **SlabCraft** v1.5a - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")
   * [http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip](http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip "SlabCraft - mediafire.com")
- * **Factorization** v0.8.04beta2 (8/7/2013) - [http://www.minecraftforum.net/topic/1351802-](http://www.minecraftforum.net/topic/1351802- "Factorization - minecraftforum.net")
+ * **Factorization** v0.8.04beta11 (9/4/2013) - [http://www.minecraftforum.net/topic/1351802-](http://www.minecraftforum.net/topic/1351802- "Factorization - minecraftforum.net")
+  * Requires at least **Minecraft Forge** v9.10.0.842
   *  ID Conflict: **'ProjectRed.cfg'** Change I:"Gate Part ID"=9030 to 3602, I:"Wire Part ID"=9031 to 3603, I:"Jacketed Wire Part ID"=9032 to 3604, I:"Lantern Part ID"=9033 to 3605, I:"Inverted Lantern Part ID"=9034 to 3606, I:"Lamp Part ID"=9035 to 3607, I:"Inverted Lamp Part ID"=9036 to 3608.
  *  **CryoChamber** v0.3 - [http://renari.github.io/Cryochamber/](http://renari.github.io/Cryochamber/ "CryoChamber - renari.github.io")
   * [https://github.com/Renari/Cryochamber](https://github.com/Renari/Cryochamber "CryoChamber - github.com")
  * **Extra Utilities** v0.3 Prerelease 3a - [http://www.minecraftforum.net/topic/1776056-](http://www.minecraftforum.net/topic/1776056- "Extra Utilities - minecraftforum.net")
   * ID Conflict: **'ProjectRed.cfg'** Change 31736 to 31729.
  * **MrCrayfish Furniture Mod** v2.9.2 (7/19/2013) - [http://www.minecraftforum.net/topic/1114866-](http://www.minecraftforum.net/topic/1114866- "MrCrayfish Furniture Mod - minecraftforum.net")
- * **GraveStone** v2.3.3 - [http://www.minecraftforum.net/topic/1711328-](http://www.minecraftforum.net/topic/1711328- "GraveStone - minecraftforum.net")
+ * **GraveStone** v2.4.0 - [http://www.minecraftforum.net/topic/1711328-](http://www.minecraftforum.net/topic/1711328- "GraveStone - minecraftforum.net")
  * **Metallurgy 3** v3.2.3 - [http://minecraft.curseforge.com/mc-mods/metallurgy/](http://minecraft.curseforge.com/mc-mods/metallurgy/ "Metallurgy 3 - minecraft.curseforge.com")
   * [http://minecraft.curseforge.com/mc-mods/metallurgy/files/](http://minecraft.curseforge.com/mc-mods/metallurgy/files/ "Metallurgy 3 - minecraft.curseforge.com")
   * Requires **'KeithyUtils v1.2'**.
@@ -154,13 +155,15 @@
   * ID Conflict: **'AppliedEnergistics.cfg'** Change I:appeng.TinyTNT=3970 to 2837.
  * **Damage Indicators** v2.9.0.0 - [http://www.minecraftforum.net/topic/1536685-](http://www.minecraftforum.net/topic/1536685- "Damage Indicators - minecraftforum.net")
  * **Backpacks** v1.18.17 (8/31/2013) - [http://www.minecraftforum.net/topic/1492661-](http://www.minecraftforum.net/topic/1492661- "Backpacks - minecraftforum.net")
- * **Biblo Craft** v1.4.0 (8/17/2013) - [http://www.minecraftforum.net/topic/1680480-](http://www.minecraftforum.net/topic/1680480- "Biblo Craft - minecraftforum.net")
+ * **Biblo Craft** v1.4.1 (9/4/2013) - [http://www.minecraftforum.net/topic/1680480-](http://www.minecraftforum.net/topic/1680480- "Biblo Craft - minecraftforum.net")
+  * [http://www.bibliocraftmod.com/](http://www.bibliocraftmod.com/ "Biblo Craft - bibliocraftmod.com")
  * **Coral Reef** (7/22/2013) - [http://www.minecraftforum.net/topic/1106449-](http://www.minecraftforum.net/topic/1106449- "Coral Reef - minecraftforum.net")
  * **ExtrabiomesXL** v3.14.1 - [http://www.minecraftforum.net/topic/1090288-](http://www.minecraftforum.net/topic/1090288- "ExtrabiomesXL - minecraftforum.net")
- * **PortalGun** v2.0.0 - [http://ichun.us/mods/portalgun/download/](http://ichun.us/mods/portalgun/download/ "PortalGun - ichun.us")
+ * **PortalGun** v2.0.1 (9/2/2013) - [http://ichun.us/mods/portalgun/download/](http://ichun.us/mods/portalgun/download/ "PortalGun - ichun.us")
   * Requires **'iChun Util'**.
  * **iChun Util** v2.1.0 - [http://ichun.us/mods/ichun-util/](http://ichun.us/mods/ichun-util/ "iChun Util - ichun.us")
- * **Compact Solars** v4.4.12.120 (9/2/2013) - [http://files.minecraftforge.net/CompactSolars/](http://files.minecraftforge.net/CompactSolars/ "Compact Solars - files.minecraftforge.net")
+ * **Compact Solars** v4.4.13.123 (9/3/2013) - [http://files.minecraftforge.net/CompactSolars/](http://files.minecraftforge.net/CompactSolars/ "Compact Solars - files.minecraftforge.net")
+  * [http://forum.industrial-craft.net/?page=Thread&threadID=4827](http://forum.industrial-craft.net/?page=Thread&threadID=4827 "Compact Solars - forum.industrial-craft.net")
  * **TF2 Teleporter** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Teleporter - minecraftforum.net")
  * **TF2 Sentry** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Sentry - minecraftforum.net")
  * **TF2 Dispenser** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Dispenser - minecraftforum.net")
@@ -172,7 +175,10 @@
  * **Mystcraft** v0.10.6 - [http://www.minecraftforum.net/topic/918541-](http://www.minecraftforum.net/topic/918541- "Mystcraft - minecraftforum.net")
  * **Jammy Furniture Mod** v4.5 - [http://www.minecraftforum.net/topic/1098808-](http://www.minecraftforum.net/topic/1098808- "Jammy Furniture Mod - minecraftforum.net")
   * Crashed: ID conflict with **Forestry**. Need to fix.
-
+ * **Redlogic** v56.1.0 - [http://www.minecraftforum.net/topic/1852277-](http://www.minecraftforum.net/topic/1852277- "Redlogic - minecraftforum.net")
+  * [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Redlogic - dl.dropboxusercontent.com")
+ * **AdditionalBuildcraftObjects(abo)** v1.0.6.165 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
+  * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2
@@ -205,7 +211,7 @@
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
   * Delete **'idfix.txt'** each time running **Minecraft** when debugging for a fresh file. 
   * If **'IDFix'** is removed the ID Conflicts will return.
- * **OptiFine B4** (7/19/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
+ * **OptiFine C4** (9/4/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
   * This mod adds support for HD textures and a lot of options for better looks and performance.
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
   * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.

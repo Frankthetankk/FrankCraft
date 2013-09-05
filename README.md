@@ -202,7 +202,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Extra-Bees/Extra-Trees** v1.8-dev2 (9/5/2013) - [http://www.minecraftforum.net/topic/1324321-](http://www.minecraftforum.net/topic/1324321- "Extra-Bees - minecraftforum.net")
   * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
   * ID Conflict: **'\forestry\extrabees\machines.conf'** Change I:advGeneticMachine=4089 to 2822, I:geneticMachine=4090 to 2823, I:apiaristMachine=4091 to 2824.
-  * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2825, I:ectoplasm=4093 to 2826, I:hive=4094 to 2827.
+  * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2820, I:ectoplasm=4093 to 2819, I:hive=4094 to 2818.
 
 
 ##Mods I want to include

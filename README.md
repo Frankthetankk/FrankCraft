@@ -186,7 +186,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Nuclear Control(IC2)** v.1.6.2c - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915 "Nuclear Control - forum.industrial-craft.net")
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
 
-
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
  * **Mystcraft** v0.10.6 - [http://www.minecraftforum.net/topic/918541-](http://www.minecraftforum.net/topic/918541- "Mystcraft - minecraftforum.net")
@@ -200,11 +199,11 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
-
+ * **Extra-Bees** v1.8-dev2 (9/5/2013) - [http://www.minecraftforum.net/topic/1324321-](http://www.minecraftforum.net/topic/1324321- "Extra-Bees - minecraftforum.net")
+  * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2
- * **Extra-Bees** - [http://www.minecraftforum.net/topic/1324321-](http://www.minecraftforum.net/topic/1324321- "Extra-Bees - minecraftforum.net")
  * **MineFactoryReloaded** - [http://www.minecraftforum.net/topic/1629898-](http://www.minecraftforum.net/topic/1629898- "MineFactoryReloaded - minecraftforum.net")
  * **ThermalExpansion** - [http://thermalexpansion.wikispaces.com/Downloads](http://thermalexpansion.wikispaces.com/Downloads "ThermalExpansion - thermalexpansion.wikispaces.com")
  * **NEIPlugins** - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")

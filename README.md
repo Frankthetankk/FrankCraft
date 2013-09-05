@@ -196,6 +196,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **ChargePads** v3.0.0.94-experimental - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892 "ChargePads - forum.industrial-craft.net")
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
+ * **Nuclear Control(IC2)** v.1.6.2c - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915 "Nuclear Control - forum.industrial-craft.net")
+ * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
+
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2
@@ -207,6 +210,8 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff](http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff "PluginsforForestry - forestry.sengir.net")
  * **Thaumcraft** - [http://www.minecraftforum.net/topic/1585216](http://www.minecraftforum.net/topic/1585216- "Thaumcraft - minecraftforum.net")
  * **Assembly Line** - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
+ * **FrogCraft(IC2)** 1.6.2 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458 "FrogCraft - forum.industrial-craft.net")
+  * Incompatible with experimental IC2.
 
 ##Texture Packs
  * ~~**Pixel Perfection x16** v1.9.5~~ - [http://www.minecraftforum.net/topic/1409879-](http://www.minecraftforum.net/topic/1409879- "Pixel Perfection x16 - minecraftforum.net")

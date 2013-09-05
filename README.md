@@ -171,6 +171,12 @@
  * **TF2 Dispenser** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Dispenser - minecraftforum.net")
  * **Better Biomes** v1.2.1d - [http://www.minecraftforum.net/topic/1721139-](http://www.minecraftforum.net/topic/1721139- "Better Biomes - minecraftforum.net")
   * ID Conflict: **'/Better Biomes/Saplings.cfg'** Change I:"Item ID of Sapling Planter"=3801 to 2840.
+ * **OptiFine** C4 (9/4/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
+  * This mod adds support for HD textures and a lot of options for better looks and performance.
+  * **Three Files to choose from. Pick only one to install. Read the Instructions.**
+  * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
+  * **Note: OptiFine doesn't seem to work well with the NEI mod.**
+  * ***___!! Use at your own risk! It could mess up how your game runs. ~~I am not using this. Too many Crashes.~~ !!___***
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -213,9 +219,3 @@
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
   * Delete **'idfix.txt'** each time running **Minecraft** when debugging for a fresh file. 
   * If **'IDFix'** is removed the ID Conflicts will return.
- * **OptiFine C4** (9/4/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
-  * This mod adds support for HD textures and a lot of options for better looks and performance.
-  * **Three Files to choose from. Pick only one to install. Read the Instructions.**
-  * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
-  * **Note: OptiFine doesn't seem to work well with the NEI mod.**
-  * ***___!! Use at your own risk! It could mess up how your game runs. I am not using this. Too many Crashes. !!___***

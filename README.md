@@ -176,7 +176,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **TF2 Sentry** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Sentry - minecraftforum.net")
  * **TF2 Dispenser** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Dispenser - minecraftforum.net")
  * **Better Biomes** v1.2.1d - [http://www.minecraftforum.net/topic/1721139-](http://www.minecraftforum.net/topic/1721139- "Better Biomes - minecraftforum.net")
-  * ID Conflict: **'/Better Biomes/Saplings.cfg'** Change I:"Item ID of Sapling Planter"=3801 to 2840.
+  * ID Conflict: **'\Better Biomes\Saplings.cfg'** Change I:"Item ID of Sapling Planter"=3801 to 2840.
  * **OptiFine** C4 (9/4/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
   * This mod adds support for HD textures and a lot of options for better looks and performance.
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
@@ -201,6 +201,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
  * **Extra-Bees/Extra-Trees** v1.8-dev2 (9/5/2013) - [http://www.minecraftforum.net/topic/1324321-](http://www.minecraftforum.net/topic/1324321- "Extra-Bees - minecraftforum.net")
   * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
+  * ID Conflict: **'\forestry\extrabees\machines.conf'** Change I:advGeneticMachine=4089 to 2822, I:geneticMachine=4090 to 2823, I:apiaristMachine=4091 to 2824.
+  * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2825, I:ectoplasm=4093 to 2826, I:hive=4094 to 2827.
+
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

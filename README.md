@@ -193,6 +193,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Redlogic - dl.dropboxusercontent.com")
  * **AdditionalBuildcraftObjects(abo)** v1.0.6.165 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
   * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
+ * **ChargePads** v3.0.0.94-experimental - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892 "ChargePads - forum.industrial-craft.net")
+  * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
+  * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

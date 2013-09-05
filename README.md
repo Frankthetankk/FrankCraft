@@ -134,7 +134,9 @@
   * [http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip](http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip "SlabCraft - mediafire.com")
  * **Factorization** v0.8.04beta11 (9/4/2013) - [http://www.minecraftforum.net/topic/1351802-](http://www.minecraftforum.net/topic/1351802- "Factorization - minecraftforum.net")
   * Requires at least **Minecraft Forge** v9.10.0.842
-  *  ID Conflict: **'ProjectRed.cfg'** Change I:"Gate Part ID"=9030 to 3602, I:"Wire Part ID"=9031 to 3603, I:"Jacketed Wire Part ID"=9032 to 3604, I:"Lantern Part ID"=9033 to 3605, I:"Inverted Lantern Part ID"=9034 to 3606, I:"Lamp Part ID"=9035 to 3607, I:"Inverted Lamp Part ID"=9036 to 3608.
+  * Crash: conflict with **Metallurgy 3**.
+  * Downgrade to **Factorization** v0.8.04beta2 till fix.
+  * ID Conflict: **'ProjectRed.cfg'** Change I:"Gate Part ID"=9030 to 3602, I:"Wire Part ID"=9031 to 3603, I:"Jacketed Wire Part ID"=9032 to 3604, I:"Lantern Part ID"=9033 to 3605, I:"Inverted Lantern Part ID"=9034 to 3606, I:"Lamp Part ID"=9035 to 3607, I:"Inverted Lamp Part ID"=9036 to 3608.
  *  **CryoChamber** v0.3 - [http://renari.github.io/Cryochamber/](http://renari.github.io/Cryochamber/ "CryoChamber - renari.github.io")
   * [https://github.com/Renari/Cryochamber](https://github.com/Renari/Cryochamber "CryoChamber - github.com")
  * **Extra Utilities** v0.3 Prerelease 3a - [http://www.minecraftforum.net/topic/1776056-](http://www.minecraftforum.net/topic/1776056- "Extra Utilities - minecraftforum.net")

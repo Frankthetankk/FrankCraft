@@ -8,14 +8,22 @@
 * **Forge** v9.10.1.849 1.6.2 (9/3/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
-  * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
-  * If start crashing because of memory errors with too many mods running. Under **JVM Arguments**: increase the number (which stands for the RAM) from **1** in **-Xmx1G** to **2** or higher.
-  * Also if Minecraft keeps crashing add this line to **JVM Argument**: **-XX:MaxPermSize=128m**
-  * Start the game using Forge Profile. Check in **'mods'** for Forge in game.
+ * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
+ * If start crashing because of memory errors with too many mods running. Under **JVM Arguments**: increase the number (which stands for the RAM) from **1** in **-Xmx1G** to **2** or higher.
+ * Also if Minecraft keeps crashing add this line to **JVM Argument**: **-XX:MaxPermSize=128m**
+ * Start the game using Forge Profile. Check in **'mods'** for Forge in game.
 
 ##Config
  * I listed mostly the ID Conflict changes to my configs in the mods section as I was getting this modpack to run.
- * List of my current config is available here.
+ * If you run into a crash or an error. A possible fix would be to try deleting the entire **'config'** folder and try again. Back up first.
+ * List of my current config is available [https://github.com/Frankthetankk/FrankCraft/tree/master/config](here).
+ 
+##References
+Use these sites for a list of mods known. Note: that the lists are not complete and are a work in progress.
+ * **List of mods for 1.6.2** - [http://www.minecraftforum.net/topic/1434593-](http://www.minecraftforum.net/topic/1434593- "List of mods for 1.6.2 - minecraftforum.net")
+  * [http://modlist.mcf.li/list/1.6/1.6.2.php](http://modlist.mcf.li/list/1.6/1.6.2.php "List of mods for 1.6.2 - modlist.mcf.li")
+ * **Not Enough Mods** - [http://bot.notenoughmods.com/1.6.2.html](http://bot.notenoughmods.com/1.6.2.html "Not Enough Mods 1.6.2 List - bot.notenoughmods.com")
+  * [http://bot.notenoughmods.com/](http://bot.notenoughmods.com/ "Not Enough Mods - bot.notenoughmods.com")
 
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")

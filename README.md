@@ -16,7 +16,7 @@
 ##Config
  * I listed mostly the ID Conflict changes to my configs in the mods section as I was getting this modpack to run.
  * If you run into a crash or an error. A possible fix would be to try deleting the entire **'config'** folder and try again. Back up first.
- * List of my current config is available [https://github.com/Frankthetankk/FrankCraft/tree/master/config](here).
+ * List of my current config is available [here](https://github.com/Frankthetankk/FrankCraft/tree/master/config).
  
 ##References
 Use these sites for a list of mods known. Note: that the lists are not complete and are a work in progress.

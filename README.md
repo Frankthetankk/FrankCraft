@@ -79,8 +79,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download the 1 file. Do not download the API file.
  * **Atomic Science** v138 - [http://universalelectricity.com/atomic-science/downloads](http://universalelectricity.com/atomic-science/downloads "Atomic Science - universalelectricity.com")
   * Download the 1 file, **'Atomic_Science'**. Do not download the API file.
-  * ~~Requires **'Basic Components'** v1.0.0.9~~
-  * ~~***___!! Crash: Open file and delete the 'basiccomponents' folder. !!___***~~ Works.
  * **ICBM** v224 - [http://universalelectricity.com/icbm/downloads](http://universalelectricity.com/icbm/downloads "ICBM - universalelectricity.com")
   * Download the 3 files. Do not download the API file.
  * **CraftGuide** v1.6.7.4 - [http://www.minecraftforum.net/topic/731133-](http://www.minecraftforum.net/topic/731133- "CraftGuide - minecraftforum.net")
@@ -182,9 +180,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **OptiFine** C4 (9/4/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
   * This mod adds support for HD textures and a lot of options for better looks and performance.
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**
-  * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'.
+  * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'. Now it is placed inside the **'mods'** folder like a regular mod.
   * **Note: OptiFine doesn't seem to work well with the NEI mod.**
-  * ***___!! Use at your own risk! It could mess up how your game runs. ~~I am not using this. Too many Crashes.~~ !!___***
+  * ***___!! Use at your own risk! Remove this mod first if you have any problems !!___***
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")

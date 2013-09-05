@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/4/2013
+#####9/5/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
 * **Forge** v9.10.1.849 1.6.2 (9/3/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
@@ -53,7 +53,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
   * Requires **‘Forge Multi-Part’**
- * **Forge Multi-Part** v1.0.0.155 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
+ * **Forge Multi-Part** v1.0.0.158 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.1.0 (8/21/2013) 8:49 am - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
@@ -183,6 +183,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Read the Entire section in 'Installation for Minecraft 1.6.2 and newer' and 'with Forge'. Now it is placed inside the **'mods'** folder like a regular mod.
   * **Note: OptiFine doesn't seem to work well with the NEI mod.**
   * ***___!! Use at your own risk! Remove this mod first if you have any problems !!___***
+ * **Nuclear Control(IC2)** v.1.6.2c - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915 "Nuclear Control - forum.industrial-craft.net")
+  * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
+
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -196,7 +199,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **ChargePads** v3.0.0.94-experimental - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892 "ChargePads - forum.industrial-craft.net")
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
- * **Nuclear Control(IC2)** v.1.6.2c - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915 "Nuclear Control - forum.industrial-craft.net")
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
 
 

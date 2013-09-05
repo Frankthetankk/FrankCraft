@@ -204,6 +204,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
+ * **QuantumCraft** v0.4.2 - [http://www.minecraftforum.net/topic/1891103-](http://www.minecraftforum.net/topic/1891103- "QuantumCraft - minecraftforum.net")
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

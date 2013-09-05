@@ -185,6 +185,11 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * ***___!! Use at your own risk! Remove this mod first if you have any problems !!___***
  * **Nuclear Control(IC2)** v.1.6.2c - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915](http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915 "Nuclear Control - forum.industrial-craft.net")
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4085 to 2821. Works.
+ * **Extra-Bees/Extra-Trees** v1.8-dev2 (9/5/2013) - [http://www.minecraftforum.net/topic/1324321-](http://www.minecraftforum.net/topic/1324321- "Extra-Bees - minecraftforum.net")
+  * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
+  * ID Conflict: **'\forestry\extrabees\machines.conf'** Change I:advGeneticMachine=4089 to 2822, I:geneticMachine=4090 to 2823, I:apiaristMachine=4091 to 2824.
+  * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2820, I:ectoplasm=4093 to 2819, I:hive=4094 to 2818.
+
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -199,11 +204,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
- * **Extra-Bees/Extra-Trees** v1.8-dev2 (9/5/2013) - [http://www.minecraftforum.net/topic/1324321-](http://www.minecraftforum.net/topic/1324321- "Extra-Bees - minecraftforum.net")
-  * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
-  * ID Conflict: **'\forestry\extrabees\machines.conf'** Change I:advGeneticMachine=4089 to 2822, I:geneticMachine=4090 to 2823, I:apiaristMachine=4091 to 2824.
-  * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2820, I:ectoplasm=4093 to 2819, I:hive=4094 to 2818.
-
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

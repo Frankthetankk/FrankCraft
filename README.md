@@ -5,7 +5,7 @@
 #####9/6/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
-* **Forge** v9.10.1.852 1.6.2 (9/5/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
+* **Forge** v9.10.1.853 1.6.2 (9/6/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
  * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
@@ -28,7 +28,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.140 (9/5/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.141 (9/6/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
  * **GalactiCraft** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
  * **GalactiCraft Planets** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
@@ -135,7 +135,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.4 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
- * **Iron Chests** v5.3.20.553 (9/5/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
+ * **Iron Chests** v5.3.20.554 (9/6/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
   * [http://files.minecraftforge.net/IronChests2/](http://files.minecraftforge.net/IronChests2/ "Iron Chests - files.minecraftforge.net")
  * **SlabCraft** v1.5a - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")
   * [http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip](http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip "SlabCraft - mediafire.com")
@@ -171,7 +171,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **PortalGun** v2.0.1 (9/2/2013) - [http://ichun.us/mods/portalgun/download/](http://ichun.us/mods/portalgun/download/ "PortalGun - ichun.us")
   * Requires **'iChun Util'**.
  * **iChun Util** v2.1.0 - [http://ichun.us/mods/ichun-util/](http://ichun.us/mods/ichun-util/ "iChun Util - ichun.us")
- * **Compact Solars** v4.4.13.126 (9/5/2013) - [http://files.minecraftforge.net/CompactSolars/](http://files.minecraftforge.net/CompactSolars/ "Compact Solars - files.minecraftforge.net")
+ * **Compact Solars** v4.4.13.127 (9/6/2013) - [http://files.minecraftforge.net/CompactSolars/](http://files.minecraftforge.net/CompactSolars/ "Compact Solars - files.minecraftforge.net")
   * [http://forum.industrial-craft.net/?page=Thread&threadID=4827](http://forum.industrial-craft.net/?page=Thread&threadID=4827 "Compact Solars - forum.industrial-craft.net")
  * **TF2 Teleporter** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Teleporter - minecraftforum.net")
  * **TF2 Sentry** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Sentry - minecraftforum.net")

@@ -206,6 +206,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
  * **QuantumCraft** v0.4.2 - [http://www.minecraftforum.net/topic/1891103-](http://www.minecraftforum.net/topic/1891103- "QuantumCraft - minecraftforum.net")
+ * **EnderIO** v0.1.20 - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2
@@ -228,6 +229,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Good realism. Ores from other mods unchanged.
  * ~~**DefStyle x16** (7/27/2013)~~ - [http://www.minecraftforum.net/topic/1065523-](http://www.minecraftforum.net/topic/1065523- "DefStyle x16 - minecraftforum.net")
   * I like default look. I dislike the GUI.
+ * **SixtyGig x64** (9/9/2013) - [http://www.minecraftforum.net/topic/1727611-](http://www.minecraftforum.net/topic/1727611- "SixtyGig - minecraftforum.net")
 
 ##Tools and/or Mods (optional)
  * **MCEdit** v0.1.7 - [http://www.mcedit.net/](http://www.mcedit.net/ "MCEdit - mcedit.net")

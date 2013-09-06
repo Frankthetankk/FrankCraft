@@ -229,7 +229,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Good realism. Ores from other mods unchanged.
  * ~~**DefStyle x16** (7/27/2013)~~ - [http://www.minecraftforum.net/topic/1065523-](http://www.minecraftforum.net/topic/1065523- "DefStyle x16 - minecraftforum.net")
   * I like default look. I dislike the GUI.
- * **SixtyGig x64** (9/9/2013) - [http://www.minecraftforum.net/topic/1727611-](http://www.minecraftforum.net/topic/1727611- "SixtyGig - minecraftforum.net")
+ * **SixtyGig x64** (9/6/2013) - [http://www.minecraftforum.net/topic/1727611-](http://www.minecraftforum.net/topic/1727611- "SixtyGig - minecraftforum.net")
 
 ##Tools and/or Mods (optional)
  * **MCEdit** v0.1.7 - [http://www.mcedit.net/](http://www.mcedit.net/ "MCEdit - mcedit.net")

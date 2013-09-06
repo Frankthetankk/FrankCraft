@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/5/2013
+#####9/6/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
 * **Forge** v9.10.1.852 1.6.2 (9/5/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")

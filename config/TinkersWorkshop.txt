@@ -71,8 +71,10 @@ block {
     I:"Redstone Machines"=3226
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
+    I:"Slime Channel"=3190
     I:"Slime Grass"=3238
     I:"Slime Grass Leaves"=3240
+    I:"Slime Pad"=3191
     I:"Slime Tall Grass"=3239
     I:"Slime Tree Sapling"=3241
     I:Smeltery=1474

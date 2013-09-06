@@ -29,11 +29,11 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
  * **Industrial Craft 2 Experimental (IC2)** v2.0.140 (9/5/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.654 (9/4/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.654 (9/4/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.654 (9/4/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -53,9 +53,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
   * Requires **‘Forge Multi-Part’**
- * **Forge Multi-Part** v1.0.0.158 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
+ * **Forge Multi-Part** v1.0.0.159 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
   * Download **universal** file. Do not download dev file.
- * **Railcraft** v8.0.1.0 (8/21/2013) 8:49 am - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
+ * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
  * **Build Craft** v363 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
  * **UgoCraft** v2.1.1 - [http://www.maocat.net/?page_id=6586](http://www.maocat.net/?page_id=6586 "UgoCraft - maocat.net")
@@ -100,7 +100,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Biomes O Plenty** v0.6.2 - [http://www.minecraftforum.net/topic/1495041-](http://www.minecraftforum.net/topic/1495041- "Biomes O Plenty - minecraftforum.net")
   * [https://github.com/BiomesOPlenty/BiomesOPlenty/releases](https://github.com/BiomesOPlenty/BiomesOPlenty/releases "Biomes O Plenty - github.com")
   * Download the mod. Do not download the API file.
- * **Tinkers Construct** v1.4.3d10 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
+ * **Tinkers Construct** v1.4.5d2 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
  * **Natura** v2.1.7 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
   * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
@@ -122,6 +122,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Advanced Machines(IC2)** v5.1.8 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
   * [http://atomicstryker.net/advancedmachines.html](http://atomicstryker.net/advancedmachines.html "Advanced Machines(IC2) - atomicstryker.net")
  * **Steve’s Carts** v2.0.0.a132 - [http://www.minecraftforum.net/topic/680276-](http://www.minecraftforum.net/topic/680276- "Steve’s Carts - minecraftforum.net")
+  * [http://stevescarts2.wikispaces.com/Download](http://stevescarts2.wikispaces.com/Download "Steve’s Carts - stevescarts2.wikispaces.com")
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
   * ID Conflict: **'StevesCarts.cfg'** Change I:AdvancedDetector=4072 to 3519, I:CargoManager=4075 to 3520.
  * **Project: Red** v4.0.0pre.37 (8/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
@@ -148,7 +149,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Extra Utilities** v0.3 Prerelease 3a - [http://www.minecraftforum.net/topic/1776056-](http://www.minecraftforum.net/topic/1776056- "Extra Utilities - minecraftforum.net")
   * ID Conflict: **'ProjectRed.cfg'** Change 31736 to 31729.
  * **MrCrayfish Furniture Mod** v2.9.2 (7/19/2013) - [http://www.minecraftforum.net/topic/1114866-](http://www.minecraftforum.net/topic/1114866- "MrCrayfish Furniture Mod - minecraftforum.net")
- * **GraveStone** v2.4.0 - [http://www.minecraftforum.net/topic/1711328-](http://www.minecraftforum.net/topic/1711328- "GraveStone - minecraftforum.net")
+ * **GraveStone** v2.4.1 - [http://www.minecraftforum.net/topic/1711328-](http://www.minecraftforum.net/topic/1711328- "GraveStone - minecraftforum.net")
  * **Metallurgy 3** v3.2.3 - [http://minecraft.curseforge.com/mc-mods/metallurgy/](http://minecraft.curseforge.com/mc-mods/metallurgy/ "Metallurgy 3 - minecraft.curseforge.com")
   * [http://minecraft.curseforge.com/mc-mods/metallurgy/files/](http://minecraft.curseforge.com/mc-mods/metallurgy/files/ "Metallurgy 3 - minecraft.curseforge.com")
   * Requires **'KeithyUtils v1.2'**.

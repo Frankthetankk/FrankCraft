@@ -66,7 +66,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://bspk.rs/MC/TreeCapitator_Forge/index.html](http://bspk.rs/MC/TreeCapitator_Forge/index.html "Tree Capitator - bspk.rs")
   * Requires **'bskpkrs Core'**.
  * **bskpkrsCore** v3.03 - [http://bspk.rs/MC/bspkrsCore/index.html](http://bspk.rs/MC/bspkrsCore/index.html "bskpkrsCore - bspk.rs")
- * **~~Universal Electricity~~** v165 - [http://universalelectricity.com/universalelectricity/downloads](http://universalelectricity.com/universalelectricity/downloads "Universal Electricity - universalelectricity.com")
+ * **Universal Electricity** v166 - [http://universalelectricity.com/universalelectricity/downloads](http://universalelectricity.com/universalelectricity/downloads "Universal Electricity - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
   * [https://github.com/Universal-Electricity/Universal-Electricity](https://github.com/Universal-Electricity/Universal-Electricity "Universal Electricity - github.com")
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***

@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/6/2013
+#####9/7/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
 * **Forge** v9.10.1.853 1.6.2 (9/6/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
@@ -207,6 +207,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
  * **QuantumCraft** v0.4.2 - [http://www.minecraftforum.net/topic/1891103-](http://www.minecraftforum.net/topic/1891103- "QuantumCraft - minecraftforum.net")
  * **EnderIO** v0.1.20 - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
+ * **Logistics Pipes** 1.6.2 dev v7 (9/7/2013) - [http://www.minecraftforum.net/topic/1831791-](http://www.minecraftforum.net/topic/1831791- "Logistics Pipes - minecraftforum.net")
+  * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
+
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

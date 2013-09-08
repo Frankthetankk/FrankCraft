@@ -4,8 +4,8 @@
 ####Minecraft 1.6.2 mod pack put together by myself.
 #####9/7/2013
 ##Setup
-* **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease")
-* **Forge** v9.10.1.853 1.6.2 (9/6/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge")
+* **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
+* **Forge** v9.10.1.859 1.6.2 (9/7/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
  * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx
@@ -28,12 +28,12 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.141 (9/6/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.148 (9/7/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **GalactiCraft** v1.6.2-a0.1.39.666 (9/7/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.39.666 (9/7/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.655 (9/5/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.39.666 (9/7/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -66,25 +66,25 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://bspk.rs/MC/TreeCapitator_Forge/index.html](http://bspk.rs/MC/TreeCapitator_Forge/index.html "Tree Capitator - bspk.rs")
   * Requires **'bskpkrs Core'**.
  * **bskpkrsCore** v3.03 - [http://bspk.rs/MC/bspkrsCore/index.html](http://bspk.rs/MC/bspkrsCore/index.html "bskpkrsCore - bspk.rs")
- * **Universal Electricity** v166 - [http://universalelectricity.com/universalelectricity/downloads](http://universalelectricity.com/universalelectricity/downloads "Universal Electricity - universalelectricity.com")
+ * **Universal Electricity** v168 - [http://universalelectricity.com/universalelectricity/downloads](http://universalelectricity.com/universalelectricity/downloads "Universal Electricity - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
   * [https://github.com/Universal-Electricity/Universal-Electricity](https://github.com/Universal-Electricity/Universal-Electricity "Universal Electricity - github.com")
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
- * **Basic Components** v1.0.0.10 - [http://universalelectricity.com/basiccomponents/downloads](http://universalelectricity.com/basiccomponents/downloads "Basic Components - universalelectricity.com")
+ * **Basic Components** v1.0.0.11 - [http://universalelectricity.com/basiccomponents/downloads](http://universalelectricity.com/basiccomponents/downloads "Basic Components - universalelectricity.com")
   * [https://github.com/Universal-Electricity/Basic-Components](https://github.com/Universal-Electricity/Basic-Components "Basic Components - github.com")
   * ***___'GalactiCraft' Should automatically download this.___***
- * **Resonant Induction** v169 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
+ * **Resonant Induction** v170 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
- * **MFFS** v220 - [http://universalelectricity.com/mffs/downloads](http://universalelectricity.com/mffs/downloads "MFFS - universalelectricity.com")
+ * **MFFS** v223 - [http://universalelectricity.com/mffs/downloads](http://universalelectricity.com/mffs/downloads "MFFS - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
- * **Atomic Science** v138 - [http://universalelectricity.com/atomic-science/downloads](http://universalelectricity.com/atomic-science/downloads "Atomic Science - universalelectricity.com")
+ * **Atomic Science** v139 - [http://universalelectricity.com/atomic-science/downloads](http://universalelectricity.com/atomic-science/downloads "Atomic Science - universalelectricity.com")
   * Download the 1 file, **'Atomic_Science'**. Do not download the API file.
- * **ICBM** v224 - [http://universalelectricity.com/icbm/downloads](http://universalelectricity.com/icbm/downloads "ICBM - universalelectricity.com")
+ * **ICBM** v225 - [http://universalelectricity.com/icbm/downloads](http://universalelectricity.com/icbm/downloads "ICBM - universalelectricity.com")
   * Download the 3 files. Do not download the API file.
  * **CraftGuide** v1.6.7.4 - [http://www.minecraftforum.net/topic/731133-](http://www.minecraftforum.net/topic/731133- "CraftGuide - minecraftforum.net")
  * **Applied Energetic** v13.b (9/1/2013) - [http://ae-mod.info/Downloads/](http://ae-mod.info/Downloads/ "Applied Energetic - ae-mod.info")
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
- * **OpenPeripheral** v0.2.0-beta (8/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
+ * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")
  * **Extra Cells AE Add-On Fluid Storage** v1.3.9 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
  * **Misc Peripherals** v3.3 - [http://www.computercraft.info/forums2/index.php?/topic/4587-](http://www.computercraft.info/forums2/index.php?/topic/4587- "Misc Peripherals - computercraft.info")
@@ -101,6 +101,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [https://github.com/BiomesOPlenty/BiomesOPlenty/releases](https://github.com/BiomesOPlenty/BiomesOPlenty/releases "Biomes O Plenty - github.com")
   * Download the mod. Do not download the API file.
  * **Tinkers Construct** v1.4.5d2 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
+  * Nightly Dev builds v1.4.dev.19-214 - [http://tanis.sunstrike.io/TConstruct/nightly/](http://tanis.sunstrike.io/TConstruct/nightly/ "Tinkers Construct - tanis.sunstrike.io")
  * **Natura** v2.1.7 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
   * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
@@ -119,7 +120,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Requires **'EnhancedCore'**.
  * **EnhancedCore** v1.1.3 - [http://shadeddimensions.co.uk/enhancedcore/downloads/](http://shadeddimensions.co.uk/enhancedcore/downloads/ "EnhancedCore - shadeddimensions.co.uk")
  * **NEI Add-ons** v1.9.0.r40 - [http://www.minecraftforum.net/topic/1803460-](http://www.minecraftforum.net/topic/1803460- "NEI Add-ons - minecraftforum.net")
- * **Advanced Machines(IC2)** v5.1.8 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
+ * **Advanced Machines(IC2)** v5.1.9 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
   * [http://atomicstryker.net/advancedmachines.html](http://atomicstryker.net/advancedmachines.html "Advanced Machines(IC2) - atomicstryker.net")
  * **Steve’s Carts** v2.0.0.a132 - [http://www.minecraftforum.net/topic/680276-](http://www.minecraftforum.net/topic/680276- "Steve’s Carts - minecraftforum.net")
   * [http://stevescarts2.wikispaces.com/Download](http://stevescarts2.wikispaces.com/Download "Steve’s Carts - stevescarts2.wikispaces.com")
@@ -135,7 +136,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.4 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
- * **Iron Chests** v5.3.20.554 (9/6/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
+ * **Iron Chests** v5.3.21.560 (9/7/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
   * [http://files.minecraftforge.net/IronChests2/](http://files.minecraftforge.net/IronChests2/ "Iron Chests - files.minecraftforge.net")
  * **SlabCraft** v1.5a - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")
   * [http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip](http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip "SlabCraft - mediafire.com")
@@ -171,7 +172,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **PortalGun** v2.0.1 (9/2/2013) - [http://ichun.us/mods/portalgun/download/](http://ichun.us/mods/portalgun/download/ "PortalGun - ichun.us")
   * Requires **'iChun Util'**.
  * **iChun Util** v2.1.0 - [http://ichun.us/mods/ichun-util/](http://ichun.us/mods/ichun-util/ "iChun Util - ichun.us")
- * **Compact Solars** v4.4.13.127 (9/6/2013) - [http://files.minecraftforge.net/CompactSolars/](http://files.minecraftforge.net/CompactSolars/ "Compact Solars - files.minecraftforge.net")
+ * **Compact Solars** v4.4.13.133 (9/7/2013) - [http://files.minecraftforge.net/CompactSolars/](http://files.minecraftforge.net/CompactSolars/ "Compact Solars - files.minecraftforge.net")
   * [http://forum.industrial-craft.net/?page=Thread&threadID=4827](http://forum.industrial-craft.net/?page=Thread&threadID=4827 "Compact Solars - forum.industrial-craft.net")
  * **TF2 Teleporter** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Teleporter - minecraftforum.net")
  * **TF2 Sentry** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Sentry - minecraftforum.net")

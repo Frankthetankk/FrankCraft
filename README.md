@@ -29,12 +29,12 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
  * **Industrial Craft 2 Experimental (IC2)** v2.0.150 (9/7/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.39.666 (9/7/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft** v1.6.2-a0.1.40.667 (9/8/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.39.666 (9/7/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.40.667 (9/8/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.39.666 (9/7/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
- * **Mekanism** v5.5.7.207 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
+ * **MicdoodleCore** v1.6.2-a0.1.40.667 (9/8/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **Mekanism** v5.5.7.211 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
  * **Inventory Tweaks** v1.56 (August 21) - [http://www.minecraftforum.net/topic/1720872-](http://www.minecraftforum.net/topic/1720872- "Inventory Tweaks - minecraftforum.net")
@@ -73,7 +73,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Basic Components** v1.0.0.11 - [http://universalelectricity.com/basiccomponents/downloads](http://universalelectricity.com/basiccomponents/downloads "Basic Components - universalelectricity.com")
   * [https://github.com/Universal-Electricity/Basic-Components](https://github.com/Universal-Electricity/Basic-Components "Basic Components - github.com")
   * ***___'GalactiCraft' Should automatically download this.___***
- * **Resonant Induction** v170 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
+ * **Resonant Induction** v171 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
  * **MFFS** v223 - [http://universalelectricity.com/mffs/downloads](http://universalelectricity.com/mffs/downloads "MFFS - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
@@ -136,7 +136,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Red Screen ID Conflict: **'immibis.cfg'** Change I:liquidxp.machine.id=4084 to 4085.
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
- * **Immibis Core** v56.0.4 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
+ * **Immibis Core** v56.0.5 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
  * **Iron Chests** v5.3.21.560 (9/7/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
   * [http://files.minecraftforge.net/IronChests2/](http://files.minecraftforge.net/IronChests2/ "Iron Chests - files.minecraftforge.net")
  * **SlabCraft** v1.5a - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")

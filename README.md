@@ -97,6 +97,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download where it says **'Modloader/Forge version'**. Filename is **'ZansMinimap1.6.2.zip'**.
  * **Forestry** v2.3.0.1 - [http://forestry.sengir.net/wiki.new/doku.php](http://forestry.sengir.net/wiki.new/doku.php "Forestry - forestry.sengir.net")
   * Download the 1 file under **Universal Binary**.
+  * Dev build for **Industrial Craft 2 Experimental (IC2)** - [http://forestry.sengir.net/forum/viewtopic.php?id=239](http://forestry.sengir.net/forum/viewtopic.php?id=239 "Forestry - forestry.sengir.net")
  * **Biomes O Plenty** v0.6.2 - [http://www.minecraftforum.net/topic/1495041-](http://www.minecraftforum.net/topic/1495041- "Biomes O Plenty - minecraftforum.net")
   * [https://github.com/BiomesOPlenty/BiomesOPlenty/releases](https://github.com/BiomesOPlenty/BiomesOPlenty/releases "Biomes O Plenty - github.com")
   * Download the mod. Do not download the API file.

@@ -212,15 +212,19 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
  * **QuantumCraft** v0.4.2 - [http://www.minecraftforum.net/topic/1891103-](http://www.minecraftforum.net/topic/1891103- "QuantumCraft - minecraftforum.net")
+ * **PluginsforForestry** - [http://www.minecraftforum.net/topic/1253666-](http://www.minecraftforum.net/topic/1253666- "PluginsforForestry - minecraftforum.net")
+  * [http://denoflionsx.info/](http://denoflionsx.info/ "PluginsforForestry - denoflionsx.info")
+  * [http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff](http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff "PluginsforForestry - forestry.sengir.net")
+  * Requires **denLib**.
+ * **denLib** - [https://www.dropbox.com/sh/qqgsswnyxh2mq9f/6m9vj5lzEQ/denLib](https://www.dropbox.com/sh/qqgsswnyxh2mq9f/6m9vj5lzEQ/denLib "denLib - dropbox.com")
+ * **MineFactoryReloaded** - [http://www.minecraftforum.net/topic/1629898-](http://www.minecraftforum.net/topic/1629898- "MineFactoryReloaded - minecraftforum.net")
+  * Dev Build Jenkins - [http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/](http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/ "MineFactoryReloaded - build.technicpack.net")
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2
  * **MineFactoryReloaded** - [http://www.minecraftforum.net/topic/1629898-](http://www.minecraftforum.net/topic/1629898- "MineFactoryReloaded - minecraftforum.net")
  * **ThermalExpansion** - [http://thermalexpansion.wikispaces.com/Downloads](http://thermalexpansion.wikispaces.com/Downloads "ThermalExpansion - thermalexpansion.wikispaces.com")
  * **NEIPlugins** - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")
- * **PluginsforForestry** - [http://www.minecraftforum.net/topic/1253666-](http://www.minecraftforum.net/topic/1253666- "PluginsforForestry - minecraftforum.net")
-  * [http://denoflionsx.info/](http://denoflionsx.info/ "PluginsforForestry - denoflionsx.info")
-  * [http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff](http://forestry.sengir.net/wiki.new/doku.php?id=addons:pff "PluginsforForestry - forestry.sengir.net")
  * **Thaumcraft** - [http://www.minecraftforum.net/topic/1585216](http://www.minecraftforum.net/topic/1585216- "Thaumcraft - minecraftforum.net")
  * **Assembly Line** - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
  * **FrogCraft(IC2)** 1.6.2 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458 "FrogCraft - forum.industrial-craft.net")

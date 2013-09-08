@@ -191,7 +191,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
   * ID Conflict: **'\forestry\extrabees\machines.conf'** Change I:advGeneticMachine=4089 to 2822, I:geneticMachine=4090 to 2823, I:apiaristMachine=4091 to 2824.
   * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2820, I:ectoplasm=4093 to 2819, I:hive=4094 to 2818.
-
+ * **Logistics Pipes** 1.6.2 dev v7 (9/7/2013) - [http://www.minecraftforum.net/topic/1831791-](http://www.minecraftforum.net/topic/1831791- "Logistics Pipes - minecraftforum.net")
+  * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
+  * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -208,9 +210,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Advanced Power Management(IC2)** v1.2.85-IC2_1.118 (8/22/2013) - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900 "Advanced Power Management - forum.industrial-craft.net")
  * **QuantumCraft** v0.4.2 - [http://www.minecraftforum.net/topic/1891103-](http://www.minecraftforum.net/topic/1891103- "QuantumCraft - minecraftforum.net")
  * **EnderIO** v0.1.20 - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
- * **Logistics Pipes** 1.6.2 dev v7 (9/7/2013) - [http://www.minecraftforum.net/topic/1831791-](http://www.minecraftforum.net/topic/1831791- "Logistics Pipes - minecraftforum.net")
-  * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
-
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

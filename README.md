@@ -221,8 +221,8 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Dev Build Jenkins - [http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/](http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/ "MineFactoryReloaded - build.technicpack.net")
  * **Assembly Line** - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
-  * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12920, I:recordIdIndex=13400 to 12931.
-  * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12918, I:LockItemID=31742 to 12919.
+  * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12903, I:recordIdIndex=13400 to 12928.
+  * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12901, I:LockItemID=31742 to 12902.
 
 
 ##Mods I want to include

@@ -120,6 +120,17 @@ block {
 
 
 ####################
+# dimblacklist
+####################
+
+dimblacklist {
+    B:GenerateSlimeIslandInDim0Only=false
+    I:SlimeIslandDimBlacklist <
+     >
+}
+
+
+####################
 # equipables
 ####################
 
@@ -172,6 +183,7 @@ looks {
     I:Buckets=14101
     I:"Essence Crystal"=14114
     I:"Golden Head"=14113
+    I:Jerky=14115
     I:"Jeweled Apple"=14107
     I:Materials=14020
     I:"Metal Pattern"=14024

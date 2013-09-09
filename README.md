@@ -219,6 +219,8 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **denLib** - [https://www.dropbox.com/sh/qqgsswnyxh2mq9f/6m9vj5lzEQ/denLib](https://www.dropbox.com/sh/qqgsswnyxh2mq9f/6m9vj5lzEQ/denLib "denLib - dropbox.com")
  * **MineFactoryReloaded** - [http://www.minecraftforum.net/topic/1629898-](http://www.minecraftforum.net/topic/1629898- "MineFactoryReloaded - minecraftforum.net")
   * Dev Build Jenkins - [http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/](http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/ "MineFactoryReloaded - build.technicpack.net")
+ * **Assembly Line** - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
+  * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2
@@ -226,7 +228,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **ThermalExpansion** - [http://thermalexpansion.wikispaces.com/Downloads](http://thermalexpansion.wikispaces.com/Downloads "ThermalExpansion - thermalexpansion.wikispaces.com")
  * **NEIPlugins** - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")
  * **Thaumcraft** - [http://www.minecraftforum.net/topic/1585216](http://www.minecraftforum.net/topic/1585216- "Thaumcraft - minecraftforum.net")
- * **Assembly Line** - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
  * **FrogCraft(IC2)** 1.6.2 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458 "FrogCraft - forum.industrial-craft.net")
   * Incompatible with experimental IC2.
 

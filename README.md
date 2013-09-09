@@ -196,7 +196,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
   * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
  * **EnderIO** v0.1.21 (9/7/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
-  * ID Conflict: 'EnderIO.cfg' Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949.
+  * ID Conflict: **'EnderIO.cfg'* Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949.
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -221,6 +221,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Dev Build Jenkins - [http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/](http://build.technicpack.net/view/PowerCrystals/job/MineFactoryReloaded/ "MineFactoryReloaded - build.technicpack.net")
  * **Assembly Line** - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
+  * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12920
 
 ##Mods I want to include
 ####These mods are not yet updated to v1.6.2

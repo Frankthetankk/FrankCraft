@@ -101,7 +101,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Biomes O Plenty** v0.6.2 - [http://www.minecraftforum.net/topic/1495041-](http://www.minecraftforum.net/topic/1495041- "Biomes O Plenty - minecraftforum.net")
   * [https://github.com/BiomesOPlenty/BiomesOPlenty/releases](https://github.com/BiomesOPlenty/BiomesOPlenty/releases "Biomes O Plenty - github.com")
   * Download the mod. Do not download the API file.
- * **Tinkers Construct** v1.4.5d2 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
+ * **Tinkers Construct** v1.4.5d4 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
   * Nightly Dev builds v1.4.dev.19-214 - [http://tanis.sunstrike.io/TConstruct/nightly/](http://tanis.sunstrike.io/TConstruct/nightly/ "Tinkers Construct - tanis.sunstrike.io")
  * **Natura** v2.1.7 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
@@ -122,7 +122,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Requires **'EnhancedCore'**.
  * **EnhancedCore** v1.1.3 - [http://shadeddimensions.co.uk/enhancedcore/downloads/](http://shadeddimensions.co.uk/enhancedcore/downloads/ "EnhancedCore - shadeddimensions.co.uk")
  * **NEI Add-ons** v1.9.0.r40 - [http://www.minecraftforum.net/topic/1803460-](http://www.minecraftforum.net/topic/1803460- "NEI Add-ons - minecraftforum.net")
- * **Advanced Machines(IC2)** v5.1.9 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
+ * **Advanced Machines(IC2)** v5.2.0 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907 "Advanced Machines(IC2) - forum.industrial-craft.net")
   * [http://atomicstryker.net/advancedmachines.html](http://atomicstryker.net/advancedmachines.html "Advanced Machines(IC2) - atomicstryker.net")
  * **Steve’s Carts** v2.0.0.a132 - [http://www.minecraftforum.net/topic/680276-](http://www.minecraftforum.net/topic/680276- "Steve’s Carts - minecraftforum.net")
   * [http://stevescarts2.wikispaces.com/Download](http://stevescarts2.wikispaces.com/Download "Steve’s Carts - stevescarts2.wikispaces.com")

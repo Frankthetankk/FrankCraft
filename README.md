@@ -86,7 +86,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
  * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")
- * **Extra Cells AE Add-On Fluid Storage** v1.3.9 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
+ * **Extra Cells AE Add-On Fluid Storage** v1.4.1 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
  * **Misc Peripherals** v3.3 - [http://www.computercraft.info/forums2/index.php?/topic/4587-](http://www.computercraft.info/forums2/index.php?/topic/4587- "Misc Peripherals - computercraft.info")
   * Author on an indefinite break. Quickfix For MC v1.6x is v3.4b2
  * **AE Peripheral** v1.0.1.1 - [http://www.computercraft.info/forums2/index.php?/topic/12663-](http://www.computercraft.info/forums2/index.php?/topic/12663- "AE Peripheral - computercraft.info")
@@ -211,7 +211,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Crashed: ID conflict with **Forestry**. Need to fix.
  * **Redlogic** v56.1.0 - [http://www.minecraftforum.net/topic/1852277-](http://www.minecraftforum.net/topic/1852277- "Redlogic - minecraftforum.net")
   * [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Redlogic - dl.dropboxusercontent.com")
- * **AdditionalBuildcraftObjects(abo)** v1.0.6.165 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
+ * **AdditionalBuildcraftObjects(abo)** v1.0.6.172 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
   * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
  * **ChargePads** v3.0.0.94-experimental - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892 "ChargePads - forum.industrial-craft.net")
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")

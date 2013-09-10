@@ -126,11 +126,12 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://atomicstryker.net/advancedmachines.html](http://atomicstryker.net/advancedmachines.html "Advanced Machines(IC2) - atomicstryker.net")
  * **Steve’s Carts** v2.0.0.a132 - [http://www.minecraftforum.net/topic/680276-](http://www.minecraftforum.net/topic/680276- "Steve’s Carts - minecraftforum.net")
   * [http://stevescarts2.wikispaces.com/Download](http://stevescarts2.wikispaces.com/Download "Steve’s Carts - stevescarts2.wikispaces.com")
-  * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**. Works.
+  * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**.
   * ID Conflict: **'StevesCarts.cfg'** Change I:AdvancedDetector=4072 to 3519, I:CargoManager=4075 to 3520.
- * **Project: Red** v4.0.0pre.37 (8/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
+ * **Project: Red** v4.0.0.2 (9/10/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
   * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "Project: Red - github.com")
-  * Requires at least **'ForgeMultipart'** v1.0.0.130 (8/18/2013). Works.
+  * Download the 3 mods. Base, Integration, World.
+  * ID Conflict: 'ProjectRed.cfg' Change I:"Illuminated Button Part ID"=9038 to 3609.
  * **Liquid XP** v56.0.2 - [http://www.minecraftforum.net/topic/1001131-](http://www.minecraftforum.net/topic/1001131- "Liquid XP - minecraftforum.net")
   * [http://immibis.com/mcmoddl/](http://immibis.com/mcmoddl/ "Liquid XP - immibis.com")
   * Requires **'Immibis Core'**.

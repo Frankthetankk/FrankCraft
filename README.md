@@ -1,4 +1,4 @@
-﻿#FrankCraft v1.0
+#FrankCraft v1.0
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
@@ -115,6 +115,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Finder Compass** v1.6.2B - [http://www.atomicstryker.net/findercompass.html](http://www.atomicstryker.net/findercompass.html "Finder Compass - atomicstryker.net")
   * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.
   * Will Crash if **'FinderCompass.cfg'** isn't placed into **'config'** folder manually.
+  * I made a custom made Texture **'Compass32.png'** from [Faithful x32](http://www.minecraftforum.net/topic/72747-) to be used with x32 Resource packs.
   * Changelog and Version number in the file.
  * **EnhancedProtals 2** v1.0.8 - [http://shadeddimensions.co.uk/enhancedportals-2/](http://shadeddimensions.co.uk/enhancedportals-2/ "EnhancedProtals 2 - shadeddimensions.co.uk")
   * [http://www.minecraftforum.net/topic/1301217-](http://www.minecraftforum.net/topic/1301217- "EnhancedProtals 2 - minecraftforum.net")

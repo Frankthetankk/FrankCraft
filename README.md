@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/9/2013
+#####9/10/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
 * **Forge** v9.10.1.859 1.6.2 (9/7/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
@@ -29,11 +29,11 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
  * **Industrial Craft 2 Experimental (IC2)** v2.0.156 (9/9/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.40.668 (9/9/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft** v1.6.2-a0.1.40.669 (9/10/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.40.668 (9/9/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.40.669 (9/10/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.40.668 (9/9/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.40.669 (9/10/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.211 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -53,7 +53,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
   * Requires **‘Forge Multi-Part’**
- * **Forge Multi-Part** v1.0.0.163 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
+ * **Forge Multi-Part** v1.0.0.167 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
@@ -194,7 +194,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download - [http://extrabees.accudio.com/downloads.html](http://extrabees.accudio.com/downloads.html "Extra-Bees - extrabees.accudio.com")
   * ID Conflict: **'\forestry\extrabees\machines.conf'** Change I:advGeneticMachine=4089 to 2822, I:geneticMachine=4090 to 2823, I:apiaristMachine=4091 to 2824.
   * ID Conflict: **'\forestry\extrabees\main.conf'** Change I:alvearyBlock=4092 to 2820, I:ectoplasm=4093 to 2819, I:hive=4094 to 2818.
- * **Logistics Pipes** 1.6.2 dev v13 (9/9/2013) - [http://www.minecraftforum.net/topic/1831791-](http://www.minecraftforum.net/topic/1831791- "Logistics Pipes - minecraftforum.net")
+ * **Logistics Pipes** 1.6.2 dev v14 (9/10/2013) - [http://www.minecraftforum.net/topic/1831791-](http://www.minecraftforum.net/topic/1831791- "Logistics Pipes - minecraftforum.net")
   * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
   * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
  * **EnderIO** v0.1.23 (9/9/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")

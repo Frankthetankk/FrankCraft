@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/11/2013
+#####9/12/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
 * **Forge** v9.10.1.859 1.6.2 (9/7/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
@@ -28,12 +28,12 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.157 (9/11/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.40.670 (9/11/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.160 (9/12/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **GalactiCraft** v1.6.2-a0.1.40.681 (9/12/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.40.670 (9/11/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.40.681 (9/12/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.40.670 (9/11/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.40.681 (9/12/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.211 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -48,7 +48,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "EnderStorage - chickenbones.craftsaddle.org")
  * **NotEnoughItems(NEI)** v1.6.1.3 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "NotEnoughItems(NEI) - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "NotEnoughItems(NEI) - chickenbones.craftsaddle.org")
- * **Translocators** v1.1.0.8 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "Translocators - minecraftforum.net")
+ * **Translocators** v1.1.0.11 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "Translocators - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "Translocators - chickenbones.craftsaddle.org")
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
@@ -57,7 +57,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
- * **Build Craft** v367 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
+ * **Build Craft** v369 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
  * **UgoCraft** v2.1.1 - [http://www.maocat.net/?page_id=6586](http://www.maocat.net/?page_id=6586 "UgoCraft - maocat.net")
   * Scroll to bottom of the page for the link to **'UgoCraft_Client_MC1.6.2-2.1.1'**
  * **Armor Status HUD** - v1.12 - [http://www.minecraftforum.net/topic/1114612-](http://www.minecraftforum.net/topic/1114612- "Armor Status HUD - minecraftforum.net")
@@ -103,7 +103,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download the mod. Do not download the API file.
  * **Tinkers Construct** v1.4.5d4 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
   * Nightly Dev builds v1.4.dev.19-214 - [http://tanis.sunstrike.io/TConstruct/nightly/](http://tanis.sunstrike.io/TConstruct/nightly/ "Tinkers Construct - tanis.sunstrike.io")
- * **Natura** v2.1.7 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
+ * **Natura** v2.1.9 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
   * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
  * **Dynamic Liquid Tanks** v0.3.1 - [http://www.minecraftforum.net/topic/1861781-](http://www.minecraftforum.net/topic/1861781- "Dynamic Liquid Tanks - minecraftforum.net")
@@ -200,7 +200,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
  * **EnderIO** v0.1.25 (9/11/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
   * ID Conflict: **'EnderIO.cfg'* Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949.
- * **Assembly Line** (DarkGuardsman) v75 - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
+ * **Assembly Line** (DarkGuardsman) v76 - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
   * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12903, I:recordIdIndex=13400 to 12928.
   * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12901, I:LockItemID=31742 to 12902.

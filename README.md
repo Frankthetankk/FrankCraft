@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/12/2013
+#####9/13/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
 * **Forge** v9.10.1.859 1.6.2 (9/7/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
@@ -29,11 +29,11 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
  * **Industrial Craft 2 Experimental (IC2)** v2.0.160 (9/12/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
- * **GalactiCraft** v1.6.2-a0.1.40.681 (9/12/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft** v1.6.2-a0.1.40.691 (9/13/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **GalactiCraft Planets** v1.6.2-a0.1.40.681 (9/12/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **GalactiCraft Planets** v1.6.2-a0.1.40.691 (9/13/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
- * **MicdoodleCore** v1.6.2-a0.1.40.681 (9/12/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
+ * **MicdoodleCore** v1.6.2-a0.1.40.691 (9/13/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
  * **Mekanism** v5.5.7.211 - [http://universalelectricity.com/mekanism/downloads](http://universalelectricity.com/mekanism/downloads "Mekanism - universalelectricity.com")
   * Download the 3 files. Do not download the MDK file.
   * [https://github.com/aidancbrady/Mekanism](https://github.com/aidancbrady/Mekanism "Mekanism - github.com")
@@ -48,12 +48,12 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "EnderStorage - chickenbones.craftsaddle.org")
  * **NotEnoughItems(NEI)** v1.6.1.3 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "NotEnoughItems(NEI) - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "NotEnoughItems(NEI) - chickenbones.craftsaddle.org")
- * **Translocators** v1.1.0.11 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "Translocators - minecraftforum.net")
+ * **Translocators** v1.1.0.12 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "Translocators - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "Translocators - chickenbones.craftsaddle.org")
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
   * Requires **‘Forge Multi-Part’**
- * **Forge Multi-Part** v1.0.0.167 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
+ * **Forge Multi-Part** v1.0.0.171 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
@@ -65,19 +65,19 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Tree Capitator** v1.6.2.r05 (9/9/2013) - [http://www.minecraftforum.net/topic/1009577-](http://www.minecraftforum.net/topic/1009577- "Tree Capitator - minecraftforum.net")
   * [http://bspk.rs/MC/TreeCapitator_Forge/index.html](http://bspk.rs/MC/TreeCapitator_Forge/index.html "Tree Capitator - bspk.rs")
   * Requires **'bskpkrs Core'**.
- * **bskpkrsCore** v3.03 - [http://bspk.rs/MC/bspkrsCore/index.html](http://bspk.rs/MC/bspkrsCore/index.html "bskpkrsCore - bspk.rs")
- * **Universal Electricity** v168 - [http://universalelectricity.com/universalelectricity/downloads](http://universalelectricity.com/universalelectricity/downloads "Universal Electricity - universalelectricity.com")
+ * **bskpkrsCore** v3.04 - [http://bspk.rs/MC/bspkrsCore/index.html](http://bspk.rs/MC/bspkrsCore/index.html "bskpkrsCore - bspk.rs")
+ * **Universal Electricity** v170 - [http://universalelectricity.com/universalelectricity/downloads](http://universalelectricity.com/universalelectricity/downloads "Universal Electricity - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
   * [https://github.com/Universal-Electricity/Universal-Electricity](https://github.com/Universal-Electricity/Universal-Electricity "Universal Electricity - github.com")
   * ***___!! For modders only it seems. Does not show up in Mod list in-game. !!___***
- * **Basic Components** v1.0.0.11 - [http://universalelectricity.com/basiccomponents/downloads](http://universalelectricity.com/basiccomponents/downloads "Basic Components - universalelectricity.com")
+ * **Basic Components** v1.0.0.13 - [http://universalelectricity.com/basiccomponents/downloads](http://universalelectricity.com/basiccomponents/downloads "Basic Components - universalelectricity.com")
   * [https://github.com/Universal-Electricity/Basic-Components](https://github.com/Universal-Electricity/Basic-Components "Basic Components - github.com")
   * ***___'GalactiCraft' Should automatically download this.___***
- * **Resonant Induction** v171 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
+ * **Resonant Induction** v173 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
  * **MFFS** v223 - [http://universalelectricity.com/mffs/downloads](http://universalelectricity.com/mffs/downloads "MFFS - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
- * **Atomic Science** v139 - [http://universalelectricity.com/atomic-science/downloads](http://universalelectricity.com/atomic-science/downloads "Atomic Science - universalelectricity.com")
+ * **Atomic Science** v140 - [http://universalelectricity.com/atomic-science/downloads](http://universalelectricity.com/atomic-science/downloads "Atomic Science - universalelectricity.com")
   * Download the 1 file, **'Atomic_Science'**. Do not download the API file.
  * **ICBM** v225 - [http://universalelectricity.com/icbm/downloads](http://universalelectricity.com/icbm/downloads "ICBM - universalelectricity.com")
   * Download the 3 files. Do not download the API file.
@@ -86,7 +86,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
  * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")
- * **Extra Cells AE Add-On Fluid Storage** v1.4.1 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
+ * **Extra Cells AE Add-On Fluid Storage** v1.4.2 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
  * **Misc Peripherals** v3.3 - [http://www.computercraft.info/forums2/index.php?/topic/4587-](http://www.computercraft.info/forums2/index.php?/topic/4587- "Misc Peripherals - computercraft.info")
   * Author on an indefinite break. Quickfix For MC v1.6x is v3.4b2
  * **AE Peripheral** v1.0.1.1 - [http://www.computercraft.info/forums2/index.php?/topic/12663-](http://www.computercraft.info/forums2/index.php?/topic/12663- "AE Peripheral - computercraft.info")
@@ -161,7 +161,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Crash: When first run, get this error: java.lang.ClassCastException: rebelkeithy.mods.keithyutils.metablock.MetaBlock cannot be cast to appeng.common.base.AppEngMultiBlock
   * Delete **'config'** folder again. Rerun **Minecraft**.
   * ID Conflict: **'ProjectRed.cfg'** Change 31731 to 31728, 31732 to 31711, 31733 to 31712, 31734 to 31725, 31735 to 31724.
- * **Better Grass & Leaves** v1.6.2.H - [http://www.minecraftforum.net/topic/508886-](http://www.minecraftforum.net/topic/508886- "Better Grass & Leaves - minecraftforum.net")
+ * **Better Grass & Leaves** v1.6.2.I - [http://www.minecraftforum.net/topic/508886-](http://www.minecraftforum.net/topic/508886- "Better Grass & Leaves - minecraftforum.net")
  * **Twilight Forest** v1.19.3 (9/8/13) - [http://www.minecraftforum.net/topic/561673-](http://www.minecraftforum.net/topic/561673- "Twilight Forest - minecraftforum.net")
  * **Pam’s HarvestCraft** 1.6.2 v1.1.2 - [http://www.minecraftforum.net/topic/402069-](http://www.minecraftforum.net/topic/402069- "Pam’s HarvestCraft - minecraftforum.net")
   * ID Conflict: **'pamharvestcraft.cfg'** Change I:barleyID=13001 to 12950, I:barleyseedID=130027 to 12951, I:cauliflowerID=13003 to 12952, I:cauliflowerseedID=13004 to 12953, I:leekID=13005 to 12954, I:leekseedID=13006 to 12955, I:oatsID=13007 to 12956, I:oatsseedID=13008 to 12957, I:parsnipID=13009 to 12958, I:artichokeseedID=13020 to 12959, I:brusselsproutID=13021 to 12960, I:brusselsproutseedID=13022 to 12961, I:rhubarbID=13027 to 12962, I:rhubarbseedID=13028 to 12963, I:seaweedID=13029 to 12964, I:seaweedseedID=13030 to 12965, I:wintersquashID=13031 to 12966, I:wintersquashseedID=13032 to 12967, I:beeswaxID=13050 to 12968, I:pamcropID=4020 to 2825, I:pamseaweedwildID=4029 to 2826, I:pamstrawberrywildID=4030 to 2827, I:pamappleID=4031 to 2828, I:pamapplesaplingID=4032 to 2829, I:pamorangesaplingID=3972 to 2830, I:coloredclothstairswhiteID=4035 to 2831, I:coloredclothstairsorangeID=4036 to 2832, I:coloredclothstairsmagentaID=4037 to 2833, I:pamlemonsaplingID=4085 to 2834, I:pamcherryID=4090 to 2835, I:pamcherrysaplingID=4091 to 2836, I:pamblueberrywildID=4089 to 2838, I:pamorangeID=3971 to 2839, I:peanutID=13401 to 12970, I:peanutseedID=13402 to 12971, I:coloredclothstairslightblueID=4038 to 2841.

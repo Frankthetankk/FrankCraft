@@ -101,7 +101,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Biomes O Plenty** v0.6.2 - [http://www.minecraftforum.net/topic/1495041-](http://www.minecraftforum.net/topic/1495041- "Biomes O Plenty - minecraftforum.net")
   * [https://github.com/BiomesOPlenty/BiomesOPlenty/releases](https://github.com/BiomesOPlenty/BiomesOPlenty/releases "Biomes O Plenty - github.com")
   * Download the mod. Do not download the API file.
- * **Tinkers Construct** v1.4.5d4 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
+ * **Tinkers Construct** v1.4.5d5 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
   * Nightly Dev builds v1.4.dev.19-214 - [http://tanis.sunstrike.io/TConstruct/nightly/](http://tanis.sunstrike.io/TConstruct/nightly/ "Tinkers Construct - tanis.sunstrike.io")
  * **Natura** v2.1.9 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.

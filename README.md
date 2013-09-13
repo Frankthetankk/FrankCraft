@@ -86,7 +86,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
  * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")
- * **Extra Cells AE Add-On Fluid Storage** v1.4.2 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
+ * **Extra Cells AE Add-On Fluid Storage** v1.4.1 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
  * **Misc Peripherals** v3.3 - [http://www.computercraft.info/forums2/index.php?/topic/4587-](http://www.computercraft.info/forums2/index.php?/topic/4587- "Misc Peripherals - computercraft.info")
   * Author on an indefinite break. Quickfix For MC v1.6x is v3.4b2
  * **AE Peripheral** v1.0.1.1 - [http://www.computercraft.info/forums2/index.php?/topic/12663-](http://www.computercraft.info/forums2/index.php?/topic/12663- "AE Peripheral - computercraft.info")

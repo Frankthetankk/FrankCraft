@@ -110,7 +110,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * In-game mods says it's v2.09.01 Assuming it's visual bug.
  * **Diamond Buckets+** v0.98d - [http://www.minecraftforum.net/topic/1466881-](http://www.minecraftforum.net/topic/1466881- "Diamond Buckets+ - minecraftforum.net")
  * **BetterFurnaces** v3.3 - [http://www.minecraftforum.net/topic/869534-](http://www.minecraftforum.net/topic/869534- "BetterFurnaces - minecraftforum.net")
- * **RopesPlus** v1.4.6 - [http://www.atomicstryker.net/ropesplus.html](http://www.atomicstryker.net/ropesplus.html "RopesPlus - atomicstryker.net")
+ * **RopesPlus** v1.4.7 - [http://www.atomicstryker.net/ropesplus.html](http://www.atomicstryker.net/ropesplus.html "RopesPlus - atomicstryker.net")
   * Changelog and Version number in the file. 
  * **Finder Compass** v1.6.2B - [http://www.atomicstryker.net/findercompass.html](http://www.atomicstryker.net/findercompass.html "Finder Compass - atomicstryker.net")
   * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.

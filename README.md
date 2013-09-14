@@ -204,7 +204,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
   * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12903, I:recordIdIndex=13400 to 12928.
   * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12901, I:LockItemID=31742 to 12902.
- * **NEM Version Checker(NotEnoughMods) v0.2.0.10 (9/14/2013) - [http://ci.thezorro266.com/job/NEM-VersionChecker/](http://ci.thezorro266.com/job/NEM-VersionChecker/ "NEM Version Checker(NotEnoughMods) - ci.thezorro266.com")
+ * **NEM Version Checker(NotEnoughMods)** v0.2.0.10 (9/14/2013) - [http://ci.thezorro266.com/job/NEM-VersionChecker/](http://ci.thezorro266.com/job/NEM-VersionChecker/ "NEM Version Checker(NotEnoughMods) - ci.thezorro266.com")
 
 
 ##Mods I am planning to add.

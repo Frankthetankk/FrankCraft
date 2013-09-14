@@ -11,6 +11,16 @@
 
 
 ####################
+# battlegear
+####################
+
+battlegear {
+    B:"Are Hatches also weapons"=true
+    B:"Can Cleavers have shields"=true
+}
+
+
+####################
 # block
 ####################
 

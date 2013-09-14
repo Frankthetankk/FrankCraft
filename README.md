@@ -5,7 +5,7 @@
 #####9/13/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
-* **Forge** v9.10.1.859 1.6.2 (9/7/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
+* **Forge** v9.10.1.866 1.6.2 (9/13/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
  * Download the **'installer'**.
  * Run the file and select **'Install Client'**.
  * Run Minecraft Vanilla Launcher > Edit Profile > Use Version > Set to: release 1.6.2-Forge9.10xxx

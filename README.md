@@ -82,7 +82,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **ICBM** v225 - [http://universalelectricity.com/icbm/downloads](http://universalelectricity.com/icbm/downloads "ICBM - universalelectricity.com")
   * Download the 3 files. Do not download the API file.
  * **CraftGuide** v1.6.7.4 - [http://www.minecraftforum.net/topic/731133-](http://www.minecraftforum.net/topic/731133- "CraftGuide - minecraftforum.net")
- * **Applied Energetic** v13.b (9/1/2013) - [http://ae-mod.info/Downloads/](http://ae-mod.info/Downloads/ "Applied Energetic - ae-mod.info")
+ * **Applied Energetic** rv13.c.dev6 (9/13/2013) - [http://ae-mod.info/Downloads/](http://ae-mod.info/Downloads/ "Applied Energetic - ae-mod.info")
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
  * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")

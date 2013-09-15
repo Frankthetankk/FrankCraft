@@ -85,6 +85,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Applied Energetic** rv13.c.dev6 (9/13/2013) - [http://ae-mod.info/Downloads/](http://ae-mod.info/Downloads/ "Applied Energetic - ae-mod.info")
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
  * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
+  * Dev build - 0.2.1-snapshot-23 [http://www.openmods.info:8080/job/OpenPeripheral/](http://www.openmods.info:8080/job/OpenPeripheral/ "OpenPeripheral - openmods.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")
  * **Extra Cells AE Add-On Fluid Storage** v1.4.2 - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
  * **Misc Peripherals** v3.3 - [http://www.computercraft.info/forums2/index.php?/topic/4587-](http://www.computercraft.info/forums2/index.php?/topic/4587- "Misc Peripherals - computercraft.info")
@@ -205,7 +206,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12903, I:recordIdIndex=13400 to 12928.
   * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12901, I:LockItemID=31742 to 12902.
  * **NEM Version Checker(NotEnoughMods)** v0.2.0.10 (9/14/2013) - [http://ci.thezorro266.com/job/NEM-VersionChecker/](http://ci.thezorro266.com/job/NEM-VersionChecker/ "NEM Version Checker(NotEnoughMods) - ci.thezorro266.com")
-
+ * **NEIPlugins** v1.1.0.0pre1 - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -233,7 +234,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
 ####These mods are not yet updated to v1.6.2
  * **MineFactoryReloaded** - [http://www.minecraftforum.net/topic/1629898-](http://www.minecraftforum.net/topic/1629898- "MineFactoryReloaded - minecraftforum.net")
  * **ThermalExpansion** - [http://thermalexpansion.wikispaces.com/Downloads](http://thermalexpansion.wikispaces.com/Downloads "ThermalExpansion - thermalexpansion.wikispaces.com")
- * **NEIPlugins** - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")
  * **Thaumcraft** - [http://www.minecraftforum.net/topic/1585216](http://www.minecraftforum.net/topic/1585216- "Thaumcraft - minecraftforum.net")
  * **FrogCraft(IC2)** 1.6.2 - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9458 "FrogCraft - forum.industrial-craft.net")
   * Incompatible with experimental IC2.

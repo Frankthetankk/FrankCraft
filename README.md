@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/15/2013
+#####9/16/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
 * **Forge** v9.10.1.871 1.6.2 (9/15/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
@@ -28,7 +28,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.175 (9/15/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.184 (9/16/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
  * **GalactiCraft** v1.6.2-a0.1.40.699 (9/14/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
  * **GalactiCraft Planets** v1.6.2-a0.1.40.699 (9/14/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
@@ -57,7 +57,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
- * **Build Craft** v371 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
+ * **Build Craft** v373 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
  * **UgoCraft** v2.1.1 - [http://www.maocat.net/?page_id=6586](http://www.maocat.net/?page_id=6586 "UgoCraft - maocat.net")
   * Scroll to bottom of the page for the link to **'UgoCraft_Client_MC1.6.2-2.1.1'**
  * **Armor Status HUD** - v1.12 - [http://www.minecraftforum.net/topic/1114612-](http://www.minecraftforum.net/topic/1114612- "Armor Status HUD - minecraftforum.net")
@@ -102,7 +102,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Biomes O Plenty** v0.6.2 - [http://www.minecraftforum.net/topic/1495041-](http://www.minecraftforum.net/topic/1495041- "Biomes O Plenty - minecraftforum.net")
   * [https://github.com/BiomesOPlenty/BiomesOPlenty/releases](https://github.com/BiomesOPlenty/BiomesOPlenty/releases "Biomes O Plenty - github.com")
   * Download the mod. Do not download the API file.
- * **Tinkers Construct** v1.4.5d5 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
+ * **Tinkers Construct** v1.4.5.1 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
   * Nightly Dev builds v1.4.dev.19-214 - [http://tanis.sunstrike.io/TConstruct/nightly/](http://tanis.sunstrike.io/TConstruct/nightly/ "Tinkers Construct - tanis.sunstrike.io")
  * **Natura** v2.1.9 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
@@ -140,7 +140,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Red Screen ID Conflict: **'pamharvestcraft.cfg'** Change I:pamlemonsaplingID=4085 to 2834.
   * Red Screen ID Conflict: 4094 with **'RopesPlus'**. Delete **'config'** folder.
  * **Immibis Core** v56.0.5 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
- * **Iron Chests** v5.3.21.571 (9/15/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
+ * **Iron Chests** v5.4.2.573 (9/16/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
   * [http://files.minecraftforge.net/IronChests2/](http://files.minecraftforge.net/IronChests2/ "Iron Chests - files.minecraftforge.net")
  * **SlabCraft** v1.5a - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")
   * [http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip](http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip "SlabCraft - mediafire.com")
@@ -201,7 +201,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
  * **EnderIO** v0.1.25 (9/11/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
   * ID Conflict: **'EnderIO.cfg'* Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949.
- * **Assembly Line** (DarkGuardsman) v76 - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
+ * **Assembly Line** (DarkGuardsman) v82 - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
   * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12903, I:recordIdIndex=13400 to 12928.
   * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12901, I:LockItemID=31742 to 12902.

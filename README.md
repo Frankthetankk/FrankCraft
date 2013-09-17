@@ -57,7 +57,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
- * **Build Craft** v373 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
+ * **Build Craft** v374 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
  * **UgoCraft** v2.1.2 - [http://www.maocat.net/?page_id=6586](http://www.maocat.net/?page_id=6586 "UgoCraft - maocat.net")
   * Scroll to bottom of the page for the link to **'UgoCraft_Client_MC1.6.2-2.1.1'**
  * **Armor Status HUD** - v1.12 - [http://www.minecraftforum.net/topic/1114612-](http://www.minecraftforum.net/topic/1114612- "Armor Status HUD - minecraftforum.net")
@@ -130,9 +130,9 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://stevescarts2.wikispaces.com/Download](http://stevescarts2.wikispaces.com/Download "Steve’s Carts - stevescarts2.wikispaces.com")
   * Red Screen ID Conflict: 4094 with **'LiquidXP'**. Delete **'config'** folder or add -2000 to **'StevesCarts.cfg'**.
   * ID Conflict: **'StevesCarts.cfg'** Change I:AdvancedDetector=4072 to 3519, I:CargoManager=4075 to 3520.
- * **Project: Red** v4.0.0.2 (9/10/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
+ * **Project: Red** v4.0.1.4 v4 (9/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
   * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "Project: Red - github.com")
-  * Download the 3 mods. Base, Integration, World.
+  * Download the 4 mods. Base, Integration, World, Compact.
   * ID Conflict: 'ProjectRed.cfg' Change I:"Illuminated Button Part ID"=9038 to 3609.
  * **Liquid XP** v56.0.2 - [http://www.minecraftforum.net/topic/1001131-](http://www.minecraftforum.net/topic/1001131- "Liquid XP - minecraftforum.net")
   * [http://immibis.com/mcmoddl/](http://immibis.com/mcmoddl/ "Liquid XP - immibis.com")

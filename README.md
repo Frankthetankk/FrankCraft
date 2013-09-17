@@ -104,6 +104,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Download the mod. Do not download the API file.
  * **Tinkers Construct** v1.4.5.1 - [http://www.minecraftforum.net/topic/1659892-](http://www.minecraftforum.net/topic/1659892- "Tinkers Construct - minecraftforum.net")
   * Nightly Dev builds v1.4.dev.19-214 - [http://tanis.sunstrike.io/TConstruct/nightly/](http://tanis.sunstrike.io/TConstruct/nightly/ "Tinkers Construct - tanis.sunstrike.io")
+  * ID Conflict: **'TinkersWorkshop.txt'**. Change I:"Full Guard"=14047 to 14001, I:Bowstring=14048 to 14002, I:Arrowhead=14049 to 14003, I:Fletching=14050 to 14004, I:Pickaxe=14051 to 14005, I:Shovel=14052 to 14006, I:Axe=14053 to 14007, I:"Hammer Head"=14046 to 14008, I:"Excavator Head"=14045 to 14009, I:"Large Plate"=14044 to 14010.
  * **Natura** v2.1.9 - [http://www.minecraftforum.net/topic/1753754-](http://www.minecraftforum.net/topic/1753754- "Natura - minecraftforum.net")
   * If you're running **Railcraft**: Open up the **Railcraft** config and set **"block.hidden"** to 0. That should fix any and all issues involving trees missing blocks, pistons not pushing, portals not forming, etc.
   * ID Conflict: **'Natura.txt'**. Add -1000 to the ID's. Change I:"Bloodwood Fence Gate"=3347 to 2347, I:"Hopseed Fence Gate"=3348 to 2348, I:"Silverbell Fence Gate"=3350 to 2350, I:"Amaranth Fence Gate"=3351 to 2351, I:"Tigerwood Fence Gate"=3352 to 2352, I:"Willow Fence Gate"=3353 to 2353, I:"Darkwood Fence Gate"=3354 to 2354, I:"Fusewood Fence Gate"=3355 to 2355.
@@ -183,7 +184,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **TF2 Dispenser** v1.6.2a - [http://www.minecraftforum.net/topic/334760-](http://www.minecraftforum.net/topic/334760- "TF2 Dispenser - minecraftforum.net")
   * ID Conflict: **'TF2Dispenser.cfg'** Change I:dispenserItemID=12913 to 11899.
  * **Better Biomes** v1.3.0 - [http://www.minecraftforum.net/topic/1721139-](http://www.minecraftforum.net/topic/1721139- "Better Biomes - minecraftforum.net")
-  * ID Conflict: **'\Better Biomes\Saplings.cfg'** Change I:"Item ID of Sapling Planter"=3801 to 2840.
+  * ID Conflict: **'\Better Biomes\Saplings.cfg'** Change I:"Item ID of Sapling Planter"=3801 to 3810.
  * **OptiFine** C4 (9/4/2013) - [http://www.minecraftforum.net/topic/249637-](http://www.minecraftforum.net/topic/249637- "OptiFine B4 - minecraftforum.net")
   * This mod adds support for HD textures and a lot of options for better looks and performance.
   * **Three Files to choose from. Pick only one to install. Read the Instructions.**

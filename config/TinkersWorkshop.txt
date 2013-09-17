@@ -231,20 +231,20 @@ superfun {
 ####################
 
 "tool parts" {
-    I:Arrowhead=14049
+    I:Arrowhead=14003
     I:"Axe Head"=14028
-    I:Bowstring=14048
+    I:Bowstring=14002
     I:"Chisel Head"=14039
     I:Crossbar=14033
-    I:"Excavator Head"=14045
-    I:Fletching=14050
+    I:"Excavator Head"=14009
+    I:Fletching=14004
     I:"Frypan Head"=14035
-    I:"Full Guard"=14047
-    I:"Hammer Head"=14046
+    I:"Full Guard"=14001
+    I:"Hammer Head"=14008
     I:"Hoe Head"=14029
     I:"Knife Blade"=14038
     I:"Large Guard"=14031
-    I:"Large Plate"=14044
+    I:"Large Plate"=14010
     I:"Large Sword Blade"=14043
     I:"Lumber Axe Head"=14037
     I:"Medium Guard"=14032
@@ -265,7 +265,7 @@ superfun {
 
 tools {
     I:Arrow=14073
-    I:Axe=14053
+    I:Axe=14007
     I:Battleaxe=14071
     I:Battlesign=14059
     I:Broadsword=14055
@@ -281,12 +281,12 @@ tools {
     I:Longsword=14056
     I:"Lumber Axe"=14061
     I:Mattock=14060
-    I:Pickaxe=14051
+    I:Pickaxe=14005
     I:"Potion Launcher"=14064
     I:Rapier=14057
     I:Scythe=14067
     I:Shortbow=14063
-    I:Shovel=14052
+    I:Shovel=14006
 }
 
 

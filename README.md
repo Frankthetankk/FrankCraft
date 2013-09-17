@@ -207,6 +207,10 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * ID Conflict: **'\Dark\GreaterSecurity.cfg'** Change I:DoorItemID=31741 to 12901, I:LockItemID=31742 to 12902.
  * **NEM Version Checker(NotEnoughMods)** v0.2.0.10 (9/14/2013) - [http://ci.thezorro266.com/job/NEM-VersionChecker/](http://ci.thezorro266.com/job/NEM-VersionChecker/ "NEM Version Checker(NotEnoughMods) - ci.thezorro266.com")
  * **NEIPlugins** v1.1.0.0pre1 - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")
+ * **AdditionalBuildcraftObjects(abo)** v1.0.6.173 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
+  * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
+ * **AdditionalPipes** v2.4.1-BC4.0.2 - [https://github.com/tcooc/AdditionalPipesBC](https://github.com/tcooc/AdditionalPipesBC "AdditionalPipes - github.com")
+  * [https://www.dropbox.com/sh/0hc1l4bn4dvjlni/t82-3--LmE](https://www.dropbox.com/sh/0hc1l4bn4dvjlni/t82-3--LmE "AdditionalPipes - dropbox.com")
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")
@@ -215,8 +219,6 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * Crashed: ID conflict with **Forestry**. Need to fix.
  * **Redlogic** v56.1.0 - [http://www.minecraftforum.net/topic/1852277-](http://www.minecraftforum.net/topic/1852277- "Redlogic - minecraftforum.net")
   * [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Redlogic - dl.dropboxusercontent.com")
- * **AdditionalBuildcraftObjects(abo)** v1.0.6.172 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
-  * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
  * **ChargePads** v3.0.0.94-experimental - [http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892 "ChargePads - forum.industrial-craft.net")
   * [http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar](http://addons.curse.cursecdn.com/files/731/136/chargepads-1.6.2-universal-3.0.0.94-experimental.jar "ChargePads - addons.curse.cursecdn.com")
   * Requires **IC2**-2.0.113-experimental and **Forge** 844+.

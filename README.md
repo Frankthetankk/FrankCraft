@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/16/2013
+#####9/17/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
 * **Forge** v9.10.1.871 1.6.2 (9/15/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
@@ -28,7 +28,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
 ##Mods
  * **Render Player API** v1.2 Forge - [http://www.minecraftforum.net/topic/1261354-](http://www.minecraftforum.net/topic/1261354- "Render Player Api - minecraftforum.net")
  * **Player API Universal** v1.1 Forge - [http://www.minecraftforum.net/topic/738498-](http://www.minecraftforum.net/topic/738498- "Player API Universal - minecraftforum.net")
- * **Industrial Craft 2 Experimental (IC2)** v2.0.184 (9/16/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
+ * **Industrial Craft 2 Experimental (IC2)** v2.0.195 (9/17/2013) - [http://ic2api.player.to:8080/job/IC2_experimental/](http://ic2api.player.to:8080/job/IC2_experimental/ "Industrial Craft 2 Experimental (IC2) - ic2api.player.to")
  * **GalactiCraft** v1.6.2-a0.1.40.699 (9/14/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
   * Requires **'MicdoodleCore'**.
  * **GalactiCraft Planets** v1.6.2-a0.1.40.699 (9/14/2013) - [![Build Status](http://2.iongaming.org:8080/job/Galacticraft/badge/icon "GalactiCraft - 2.iongaming.org")](http://2.iongaming.org:8080/job/Galacticraft/)[http://ci.micdoodle8.com/job/Galacticraft/](http://ci.micdoodle8.com/job/Galacticraft/ "GalactiCraft - ci.micdoodle8.com")
@@ -53,12 +53,12 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **WR-CBE Wireless Redstone** v1.4.0.5 - [http://www.minecraftforum.net/topic/909223-](http://www.minecraftforum.net/topic/909223- "WR-CBE Wireless Redstone - minecraftforum.net")
   * [http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php "WR-CBE Wireless Redstone - chickenbones.craftsaddle.org")
   * Requires **‘Forge Multi-Part’**
- * **Forge Multi-Part** v1.0.0.171 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
+ * **Forge Multi-Part** v1.0.0.173 - [http://files.minecraftforge.net/ForgeMultipart/](http://files.minecraftforge.net/ForgeMultipart/ "ForgeMultipart - files.minecraftforge.net")
   * Download **universal** file. Do not download dev file.
  * **Railcraft** v8.0.2.0 (9/5/2013) 10:03 pm - [http://www.minecraftforum.net/topic/701990-](http://www.minecraftforum.net/topic/701990- "Railcraft - minecraftforum.net")
   * [http://www.railcraft.info/releases/](http://www.railcraft.info/releases/ "Railcraft - railcraft.info")
  * **Build Craft** v373 - [![Build Status](http://nallar.me/buildservice/job/Buildcraft/badge/icon)](http://nallar.me/buildservice/job/Buildcraft/)[http://nallar.me/buildservice/job/Buildcraft/](http://nallar.me/buildservice/job/Buildcraft/ "Buildcraft - nallar.me")
- * **UgoCraft** v2.1.1 - [http://www.maocat.net/?page_id=6586](http://www.maocat.net/?page_id=6586 "UgoCraft - maocat.net")
+ * **UgoCraft** v2.1.2 - [http://www.maocat.net/?page_id=6586](http://www.maocat.net/?page_id=6586 "UgoCraft - maocat.net")
   * Scroll to bottom of the page for the link to **'UgoCraft_Client_MC1.6.2-2.1.1'**
  * **Armor Status HUD** - v1.12 - [http://www.minecraftforum.net/topic/1114612-](http://www.minecraftforum.net/topic/1114612- "Armor Status HUD - minecraftforum.net")
   * Requires **'bskpkrs Core'**.
@@ -75,7 +75,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * ***___'GalactiCraft' Should automatically download this.___***
  * **Resonant Induction** v173 - [http://universalelectricity.com/resonant-induction/downloads](http://universalelectricity.com/resonant-induction/downloads "Resonant Induction - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
- * **MFFS** v223 - [http://universalelectricity.com/mffs/downloads](http://universalelectricity.com/mffs/downloads "MFFS - universalelectricity.com")
+ * **MFFS** v224 - [http://universalelectricity.com/mffs/downloads](http://universalelectricity.com/mffs/downloads "MFFS - universalelectricity.com")
   * Download the 1 file. Do not download the API file.
  * **Atomic Science** v140 - [http://universalelectricity.com/atomic-science/downloads](http://universalelectricity.com/atomic-science/downloads "Atomic Science - universalelectricity.com")
   * Download the 1 file, **'Atomic_Science'**. Do not download the API file.
@@ -154,7 +154,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [https://github.com/Renari/Cryochamber](https://github.com/Renari/Cryochamber "CryoChamber - github.com")
  * **Extra Utilities** v0.3 Prerelease 3a - [http://www.minecraftforum.net/topic/1776056-](http://www.minecraftforum.net/topic/1776056- "Extra Utilities - minecraftforum.net")
   * ID Conflict: **'ProjectRed.cfg'** Change 31736 to 31729.
- * **MrCrayfish Furniture Mod** v2.9.2 (7/19/2013) - [http://www.minecraftforum.net/topic/1114866-](http://www.minecraftforum.net/topic/1114866- "MrCrayfish Furniture Mod - minecraftforum.net")
+ * **MrCrayfish Furniture Mod** v3.0 (9/17/2013) - [http://www.minecraftforum.net/topic/1114866-](http://www.minecraftforum.net/topic/1114866- "MrCrayfish Furniture Mod - minecraftforum.net")
  * **GraveStone** v2.4.1 - [http://www.minecraftforum.net/topic/1711328-](http://www.minecraftforum.net/topic/1711328- "GraveStone - minecraftforum.net")
  * **Metallurgy 3** v3.2.3 - [http://minecraft.curseforge.com/mc-mods/metallurgy/](http://minecraft.curseforge.com/mc-mods/metallurgy/ "Metallurgy 3 - minecraft.curseforge.com")
   * [http://minecraft.curseforge.com/mc-mods/metallurgy/files/](http://minecraft.curseforge.com/mc-mods/metallurgy/files/ "Metallurgy 3 - minecraft.curseforge.com")
@@ -210,7 +210,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **NEIPlugins** v1.1.0.0pre1 - [https://bitbucket.org/mistaqur/nei_plugins/wiki/Home](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home "NEIPlugins -bitbucket.org")
  * **AdditionalBuildcraftObjects(abo)** v1.0.6.173 - [http://www.minecraftforum.net/topic/682821-](http://www.minecraftforum.net/topic/682821- "AdditionalBuildcraftObjects(abo) - minecraftforum.net")
   * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
- * **AdditionalPipes** v2.4.1-BC4.0.2 - [https://github.com/tcooc/AdditionalPipesBC](https://github.com/tcooc/AdditionalPipesBC "AdditionalPipes - github.com")
+ * **AdditionalPipes** v2.4.3-BC4.0.2 - [https://github.com/tcooc/AdditionalPipesBC](https://github.com/tcooc/AdditionalPipesBC "AdditionalPipes - github.com")
   * [https://www.dropbox.com/sh/0hc1l4bn4dvjlni/t82-3--LmE](https://www.dropbox.com/sh/0hc1l4bn4dvjlni/t82-3--LmE "AdditionalPipes - dropbox.com")
 
 ##Mods I am planning to add.

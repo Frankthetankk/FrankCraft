@@ -2,7 +2,7 @@
 
 
 ####Minecraft 1.6.2 mod pack put together by myself.
-#####9/17/2013
+#####9/18/2013
 ##Setup
 * **Java PreRelease** v7u40 Build b40 - [http://jdk7.java.net/download.html](http://jdk7.java.net/download.html "Java PreRelease - jdk7.java.net")
 * **Forge** v9.10.1.871 1.6.2 (9/15/2013) - [http://files.minecraftforge.net/](http://files.minecraftforge.net/ "Forge - files.minecraftforge.net")
@@ -216,6 +216,8 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/](https://jenkins.ra-doersch.de/job/AdditionalBuildcraftObjects/ "AdditionalBuildcraftObjects(abo) - jenkins.ra-doersch.de")
  * **AdditionalPipes** v2.4.3-BC4.0.2 - [https://github.com/tcooc/AdditionalPipesBC](https://github.com/tcooc/AdditionalPipesBC "AdditionalPipes - github.com")
   * [https://www.dropbox.com/sh/0hc1l4bn4dvjlni/t82-3--LmE](https://www.dropbox.com/sh/0hc1l4bn4dvjlni/t82-3--LmE "AdditionalPipes - dropbox.com")
+ * **Waila** v1.3.9 - [http://www.minecraftforum.net/topic/1846244-](http://www.minecraftforum.net/topic/1846244- "Waila - minecraftforum.net")
+  * [https://bitbucket.org/ProfMobius/waila](https://bitbucket.org/ProfMobius/waila "Waila - bitbucket.org")
 
 ##Mods I am planning to add.
  * **Magic Bees** v2.1.1 - [http://www.minecraftforum.net/topic/1627856-](http://www.minecraftforum.net/topic/1627856- "Magic Bees - minecraftforum.net")

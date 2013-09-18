@@ -112,7 +112,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * In-game mods says it's v2.09.01 Assuming it's visual bug.
  * **Diamond Buckets+** v0.98d - [http://www.minecraftforum.net/topic/1466881-](http://www.minecraftforum.net/topic/1466881- "Diamond Buckets+ - minecraftforum.net")
  * **BetterFurnaces** v3.3 - [http://www.minecraftforum.net/topic/869534-](http://www.minecraftforum.net/topic/869534- "BetterFurnaces - minecraftforum.net")
- * **RopesPlus** v1.4.7 - [http://www.atomicstryker.net/ropesplus.html](http://www.atomicstryker.net/ropesplus.html "RopesPlus - atomicstryker.net")
+ * **RopesPlus** v1.4.8 - [http://www.atomicstryker.net/ropesplus.html](http://www.atomicstryker.net/ropesplus.html "RopesPlus - atomicstryker.net")
   * Changelog and Version number in the file. 
  * **Finder Compass** v1.6.2B - [http://www.atomicstryker.net/findercompass.html](http://www.atomicstryker.net/findercompass.html "Finder Compass - atomicstryker.net")
   * Can't place in mods folder. Need to open file and install manually. Read the **Readme.txt**.
@@ -133,7 +133,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Project: Red** v4.0.1.4 v4 (9/17/2013) - [http://www.minecraftforum.net/topic/1885652-](http://www.minecraftforum.net/topic/1885652- "Project: Red - minecraftforum.net")
   * [https://github.com/MrTJP/ProjectRed/](https://github.com/MrTJP/ProjectRed/ "Project: Red - github.com")
   * Download the 4 mods. Base, Integration, World, Compact.
-  * ID Conflict: 'ProjectRed.cfg' Change I:"Illuminated Button Part ID"=9038 to 3609.
+  * ID Conflict: 'ProjectRed.cfg' Change I:"Illuminated Button Part ID"=9038 to 3609, I:"Cage Lamp Part ID"=9039 to 3610, I:"Inverted Cage Lamp Part ID"=9040 to 3611.
  * **Liquid XP** v56.0.2 - [http://www.minecraftforum.net/topic/1001131-](http://www.minecraftforum.net/topic/1001131- "Liquid XP - minecraftforum.net")
   * [http://immibis.com/mcmoddl/](http://immibis.com/mcmoddl/ "Liquid XP - immibis.com")
   * Requires **'Immibis Core'**.
@@ -168,7 +168,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Pam’s HarvestCraft** 1.6.2 v1.1.2 - [http://www.minecraftforum.net/topic/402069-](http://www.minecraftforum.net/topic/402069- "Pam’s HarvestCraft - minecraftforum.net")
   * ID Conflict: **'pamharvestcraft.cfg'** Change I:barleyID=13001 to 12950, I:barleyseedID=130027 to 12951, I:cauliflowerID=13003 to 12952, I:cauliflowerseedID=13004 to 12953, I:leekID=13005 to 12954, I:leekseedID=13006 to 12955, I:oatsID=13007 to 12956, I:oatsseedID=13008 to 12957, I:parsnipID=13009 to 12958, I:artichokeseedID=13020 to 12959, I:brusselsproutID=13021 to 12960, I:brusselsproutseedID=13022 to 12961, I:rhubarbID=13027 to 12962, I:rhubarbseedID=13028 to 12963, I:seaweedID=13029 to 12964, I:seaweedseedID=13030 to 12965, I:wintersquashID=13031 to 12966, I:wintersquashseedID=13032 to 12967, I:beeswaxID=13050 to 12968, I:pamcropID=4020 to 2825, I:pamseaweedwildID=4029 to 2826, I:pamstrawberrywildID=4030 to 2827, I:pamappleID=4031 to 2828, I:pamapplesaplingID=4032 to 2829, I:pamorangesaplingID=3972 to 2830, I:coloredclothstairswhiteID=4035 to 2831, I:coloredclothstairsorangeID=4036 to 2832, I:coloredclothstairsmagentaID=4037 to 2833, I:pamlemonsaplingID=4085 to 2834, I:pamcherryID=4090 to 2835, I:pamcherrysaplingID=4091 to 2836, I:pamblueberrywildID=4089 to 2838, I:pamorangeID=3971 to 2839, I:peanutID=13401 to 12970, I:peanutseedID=13402 to 12971, I:coloredclothstairslightblueID=4038 to 2841.
   * ID Conflict: **'AppliedEnergistics.cfg'** Change I:appeng.TinyTNT=3970 to 2837.
- * **Damage Indicators** v2.9.0.0 - [http://www.minecraftforum.net/topic/1536685-](http://www.minecraftforum.net/topic/1536685- "Damage Indicators - minecraftforum.net")
+ * **Damage Indicators** v2.9.0.1 - [http://www.minecraftforum.net/topic/1536685-](http://www.minecraftforum.net/topic/1536685- "Damage Indicators - minecraftforum.net")
  * **Backpacks** v1.18.17 (8/31/2013) - [http://www.minecraftforum.net/topic/1492661-](http://www.minecraftforum.net/topic/1492661- "Backpacks - minecraftforum.net")
  * **Biblo Craft** v1.4.1 (9/4/2013) - [http://www.minecraftforum.net/topic/1680480-](http://www.minecraftforum.net/topic/1680480- "Biblo Craft - minecraftforum.net")
   * [http://www.bibliocraftmod.com/](http://www.bibliocraftmod.com/ "Biblo Craft - bibliocraftmod.com")

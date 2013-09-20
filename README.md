@@ -204,7 +204,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Logistics Pipes** 1.6.2 dev v17 (9/14/2013) - [http://www.minecraftforum.net/topic/1831791-](http://www.minecraftforum.net/topic/1831791- "Logistics Pipes - minecraftforum.net")
   * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
   * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
- * **EnderIO** v0.1.25 (9/11/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
+ * **EnderIO** v0.2.1.37 (9/20/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
   * ID Conflict: **'EnderIO.cfg'* Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949.
  * **Assembly Line** (DarkGuardsman) v76 - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")

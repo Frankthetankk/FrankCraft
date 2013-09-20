@@ -205,7 +205,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
   * [http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/](http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/ "Logistics Pipes - ci.thezorro266.com")
   * ID Conflict: **'LogisticsPipe.cfg'** Change I:logisticsSolidBlockId=1101 to 1102.
  * **EnderIO** v0.2.1.37 (9/20/2013) - [http://www.minecraftforum.net/topic/1937619-](http://www.minecraftforum.net/topic/1937619- "EnderIO - minecraftforum.net")
-  * ID Conflict: **'EnderIO.cfg'** Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949, I:"enderIO:itemMJReader"=31738 to 8528, I:"enderIO:itemPowderIngot"=31739 to 12948, I:"enderIO:itemMachinePart"=31740 to 8530.
+  * ID Conflict: **'EnderIO.cfg'** Change I:"enderIO:itemIndustrialBinder"=31739 to 12969, I:"enderIO:itemEnderface"=31740 to 12949, I:"enderIO:itemMJReader"=31738 to 12947, I:"enderIO:itemPowderIngot"=31739 to 12948, I:"enderIO:itemMachinePart"=31740 to 12946.
  * **Assembly Line** (DarkGuardsman) v76 - [http://universalelectricity.com/assembly%20line/downloads](http://universalelectricity.com/assembly%20line/downloads "Assembly Line - universalelectricity.com")
   * Dev Build - [http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/](http://sourceforge.net/projects/guardsmanmcm/files/CoreMachine/ "Assembly Line - sourceforge.net")
   * ID Conflict: **'PortalGun.cfg'** Change I:itemIdIndex=13200 to 12903, I:recordIdIndex=13400 to 12928.

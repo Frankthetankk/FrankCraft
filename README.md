@@ -143,7 +143,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Immibis Core** v56.0.5 - [http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html](http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html "Immibis Core - dl.dropboxusercontent.com")
  * **Iron Chests** v5.4.1.573 (9/16/2013) - [http://www.minecraftforum.net/topic/981855-](http://www.minecraftforum.net/topic/981855- "Iron Chests - minecraftforum.net")
   * [http://files.minecraftforge.net/IronChests2/](http://files.minecraftforge.net/IronChests2/ "Iron Chests - files.minecraftforge.net")
- * **SlabCraft** v1.5a - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")
+ * **SlabCraft** v1.5b - [http://www.minecraftforum.net/topic/1161861-](http://www.minecraftforum.net/topic/1161861- "SlabCraft - minecraftforum.net")
   * [http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip](http://www.mediafire.com/download/82hii18y3q154fj/Slabcraftmod_1.5a_-_1.6.2_Forge.zip "SlabCraft - mediafire.com")
  * **Factorization** v0.8.04beta11 (9/4/2013) - [http://www.minecraftforum.net/topic/1351802-](http://www.minecraftforum.net/topic/1351802- "Factorization - minecraftforum.net")
   * Requires at least **Minecraft Forge** v9.10.0.842

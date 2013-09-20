@@ -85,7 +85,7 @@ Use these sites for a list of mods known. Note: that the lists are not complete 
  * **Applied Energetic** rv13.c (9/18/2013) - [http://ae-mod.info/Downloads/](http://ae-mod.info/Downloads/ "Applied Energetic - ae-mod.info")
   * Dev build v14 - [http://ae-mod.info/Dev/](http://ae-mod.info/Dev/ "Applied Energetic - ae-mod.info")
  * **OpenPeripheral** v0.2.0-beta (7/16/2013) - [http://www.computercraft.info/forums2/index.php?/topic/13063-](http://www.computercraft.info/forums2/index.php?/topic/13063- "OpenPeripheral - computercraft.info")
-  * Dev build - 0.2.1-snapshot-25 [http://www.openmods.info:8080/job/OpenPeripheral/](http://www.openmods.info:8080/job/OpenPeripheral/ "OpenPeripheral - openmods.info")
+  * Dev build - 0.2.1-snapshot-28 [http://www.openmods.info:8080/job/OpenPeripheral/](http://www.openmods.info:8080/job/OpenPeripheral/ "OpenPeripheral - openmods.info")
   * [http://www.openperipheral.info/openperipheral/downloads](http://www.openperipheral.info/openperipheral/downloads "OpenPeripheral - computercraft.info")
  * **Extra Cells AE Add-On Fluid Storage** v1.4.3C - [http://www.minecraftforum.net/topic/1801643-](http://www.minecraftforum.net/topic/1801643- "Extra Cells AE Add-On Fluid Storage - minecraftforum.net")
  * **Misc Peripherals** v3.3 - [http://www.computercraft.info/forums2/index.php?/topic/4587-](http://www.computercraft.info/forums2/index.php?/topic/4587- "Misc Peripherals - computercraft.info")
